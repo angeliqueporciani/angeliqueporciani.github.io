@@ -1,0 +1,67 @@
+---
+title: "IMPACT"
+image: ../content/img/STORM_pic.png
+bibliography: ../content/publications.bib
+description: "Efficacy assessment of new formulation of Ivermectin : pre-clinical phase."
+categories: [Epidemiology, PK/PD, Survival, GLMM, Malaria]
+---
+
+**Context**  
+
+Endectocides as Ivermectin represent a good complement to kill mosquitoes in the fight against malaria. For now, the limit is the time of efficacy that is relatively low (<7 days). In this project, we have investigated the efficacy of news long acting injectable formulation of Ivermectin on malaria transmission. 
+
+**Objectives**  
+
+This 3 years project was divided in 3 mains phases and 2 secondary studies: 
+
+1. Find the formulation and dose among three long-acting injectable ivermectin formulations (LAIFs) based on BEPO® depot technology that reach the Preferred Product Characteristics (PPC) of WHO, which was Hazard ratio >4  for at least one month. 
+
+2. After selection of the lead candidate formulation, we tested it in semi-field conditions with cattle and wild mosquitoes 
+
+3. Estimation of the epidemiological impact of the selected formulation and dose in diminution on malaria prevalence. 
+
+4. Estimate the potential development of resistance mechanisms in *Anopheles* and *Aedes*
+
+5. Estimate the effect on mosquitoes host seeking behaviour of the formulation of ivermectin
+
+::: {.card style="padding:1em; margin:0.5em; background-color:#fdf2e9; border-radius:14px; box-shadow:0 3px 8px rgba(0,0,0,0.12);"}
+**Methods**  
+
+- Study design, sample size estimation, power calculation, indicator of efficacy creation
+
+- Statistical analysis plan 
+
+- Data management, data quality control and cure
+
+- Survival analysis, GLMM, GAM, PK/PD, dose response (non linear modeling)
+
+- Partner and students formation and supervision for statistics analysis and data collection 
+
+- Reporting statistics results. Restitution to a variety of public. 
+
+:::
+
+::: {.card-with-logo}
+<div class="content">
+**Tools**
+
+- R : tidyverse, ggplot2, dplyr, glmmTMB, coxme, drc, mgcv, PKNCA
+- Excel, Word, quarto
+</div>
+<img src="https://www.r-project.org/logo/Rlogo.png" />
+:::
+
+**Key Results** 
+
+- A single injection induced sustained mosquitocidal efficacy for at least two months, achieving HR >4 against both susceptible and resistant Anopheles populations and meeting WHO PPC for malaria endectocides.
+
+- A single long acting injectable IVM campaign achieved 16-29\%, rising to 33-57\%, 48-74\%, and 59-78\% with two, three, and four campaigns, respectively over one year.
+
+- Aedes present a better resistance to IVM than Anopheles 
+
+- Individuals treated with IVM are not more attractive than non treated 
+
+**Impact**  
+Central study for the development of a novel malaria control tool that fit WHO recommandations for endectocides efficacy against malaria vector. The results obtained during this study allows the pharmaceutical partner to begin a phase I to test the formulation on human. The confirmation of no behavioral modification is an insurance of the efficacy along time of this molecule and the impact on resistance will be taking into account for deployment strategy and other studies will be done to avoid this treat. 
+
+**Papers** : @sagna_ivermectin_2023 ; @pooda_impact_2026 ; @zela_selection_2026 ; @dongmo_modeling_2025

@@ -1,0 +1,12 @@
+---
+title: "Projects"
+
+listing:
+  contents: projects
+  type: grid
+  fields: [image, title, description]
+  image-height: 200px
+  grid-columns: 3
+  sort: "title"
+  max-description-length: 120
+---

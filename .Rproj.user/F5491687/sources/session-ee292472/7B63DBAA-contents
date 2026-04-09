@@ -1,0 +1,43 @@
+---
+title: "ANORYTHM"
+image: ../content/img/LAM_pic.jpg
+bibliography: ../content/publications.bib
+description: "Studies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation"
+categories: [Biological rhythm, GLMM, HMM, Vector, Malaria]
+
+---
+
+**Context**  
+
+"Right time define a good vector". Indeed, the activity rhythm is crucial for the transmission. In this project, we had studied the impact of different parameters on rhythm of *Anopheles coluzzii*, from mutation to exposition to light. 
+
+**Objectives**  
+Estimation of parameters that characterize the rhythm of mosquitoes as period, onset time, maximum activity time ... and compare them between group. 
+Other parts of the project was to test a data driven approach to estimate probability of being in activity or not and decompose activity in different level of activity. 
+
+**Methods**  
+
+- Data management, data quality control and cure
+
+- Chi square periodogram, creation of specific function for automatisation of parameter estimation as onset time, maximum activity time ... 
+
+- Generalized linear mixed models with zero inflation 
+
+- Hidden Markov models (HMM)
+
+**Tools**  
+R (tidyverse, ggplot2, dplyr, glmmTMB, broom.mixed, xsp, momentuHMM)
+
+**Key Results**  
+
+- Insemination and gonotrophic status alter locomotor activity rhythms.
+
+- Inseminated females maintain activity during the subjective day under DD conditions.
+
+- Suggests possible daytime activity of *A. coluzzii* under low-light conditions.
+
+- A data-driven framework enables the estimation of activity probability and intensity over time. Hidden Markov Models (HMM) allow identification of distinct activity states and their temporal probabilities. These approaches facilitate assessment of how biological and environmental factors influence specific activity states, improving understanding of rhythm modulation. 
+
+**Impact**  
+Potential residual malaria transmission during daytime. This project advanced our understanding of how *Anopheles coluzzii* activity rhythms respond to both external and internal variability.(@traore_effects_2021).
+

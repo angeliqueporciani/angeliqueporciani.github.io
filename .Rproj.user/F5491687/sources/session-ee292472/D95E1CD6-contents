@@ -1,0 +1,39 @@
+---
+title: "Larvae Movement"
+image: ../content/img/IMG_3052.jpg
+description: "Studies of rythm modification of *Anopheles gambiae* in response to insecticides and urbanisation"
+categories: [Behavioral ecology, Time series analysis, GLMM, ML, Vector]
+---
+
+**Context**  
+
+Environment is more and more polluted by insecticides, particularly in water collection where mosquitoes larvae developed themselves. The quantity found in these places could be insufficient to kill mosquitoes larvae, but could have indirect effect on movement or other life history traits. Moreover, these effect could be observed in adult mosquitoes later and have impact on traits and in malaria transmission. 
+
+**Objectives**  
+
+- Develop a set up low cost, usable on field condition that allow video recording of multiple larvae 
+
+- Develop an application that allow tracking of larvae 
+
+- Analysis of larvae movement and adult activity from univariate to multivariate analysis and use of HMM for activity characterization of larvae and adult
+
+**Methods**  
+
+- Study design, sample size, dose choice, experiment realisation  
+
+- Data collection, management, data quality control, cure and storage (FAIR principle)
+
+- Chi square periodogram, creation of specific function for automatisation of parameter estimation as onset time, maximum activity time ... 
+
+- Univariate and multivariate analysis 
+
+- Hidden Markov models (HMM)
+
+**Tools**  
+R (tidyverse, ggplot2, dplyr, glmmTMB, broom.mixed, xsp, momentuHMM, PCA)
+
+**Key Results**  
+
+Data analysis is still ongoing, but some promising results show a difference of response between exposed and non exposed mosquitoes larvae and adults...  
+
+

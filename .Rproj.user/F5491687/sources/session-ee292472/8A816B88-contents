@@ -1,0 +1,77 @@
+---
+title: "sav"
+---
+
+:::
+::: columns
+::: column width="20%"
+![](content/img/pic_pro2026.jpg){fig-alt="Portrait" style="max-width:250px"}
+
+*I enjoy working at the interplay of data, biology and real-world questions.*
+
+### Contact
+
+📧 angelique.porciani\@gmail.com
+
+[GitHub](https://github.com/)\
+[LinkedIn](https://linkedin.com/)
+:::
+
+::: column width="40%"
+
+Hello ! I’m **Angélique Porciani**, a biostatistician and data scientist with over 12 years of experience working with complex data in life sciences.
+
+Over the years, I’ve developed strong expertise in statistical modelling and data analysis with R applied to biological systems, through a wide range of projects in epidemiology, health, and vector ecology.
+
+I particularly enjoy working with complex, time-dependent data, such as time series and longitudinal datasets, applying statistical and machine learning methods to tackle diverse analytical challenges. I also have experience with survival and dose-response models to assess the efficacy of new molecules in epidemiological studies.
+
+Looking forward, I am eager to apply machine learning approaches to high-dimensional and genetic datasets, including variable selection and exploration of complex biological patterns.
+
+What really motivates me is making sense of complex, real-world data and turning it into meaningful and actionable insights.
+
+Beyond the technical side, I’ve coordinated projects, supervised students, and shared knowledge through teaching, publications, and conferences. I value collaboration and enjoy working in interdisciplinary environments.
+
+I’m currently seeking opportunities in applied research settings such as CROs, biotech companies, or SMEs, where I can contribute to projects involving complex data and meaningful scientific questions in life sciences.
+:::
+:::
+
+::: column width="40%"
+::: columns
+
+::: column
+::: {.card style="padding:1em; margin:0.5em; background-color:#fdf2e9; border-radius:14px; box-shadow:0 3px 8px rgba(0,0,0,0.12);"}
+### 🛠 Skills
+
+**Languages & Tools:** R (tidyverse, dplyr, ggplot2), SQL, Excel / spreadsheets  
+
+**Statistical Methods:** descriptive statistics, regression, survival & dose-response modelling  
+
+**Machine Learning:** variable selection, clustering, predictive modelling  
+
+**Data Visualization & Reporting:** dashboards, KPI creation, summary tables, clear visual communication  
+
+**Soft Skills:** collaboration, teaching, project coordination, interdisciplinary teamwork
+:::
+:::
+
+::: column
+::: {.card style="padding:1em; margin:0.5em; background-color:#eaf2f8; border-radius:14px; box-shadow:0 3px 8px rgba(0,0,0,0.12);"}
+### Current Focus
+
+* **Cleaning, transforming, and exploring** complex datasets for actionable insights 
+ 
+* Creating **clear visualizations**, dashboards, and indicators for decision-making  
+
+* Applying **statistical modelling & machine learning** to real-world biological data  
+
+* **Time-dependent data**: time series, longitudinal datasets  
+
+* **Survival & dose-response** analyses to evaluate new molecules or interventions
+
+:::
+:::
+
+:::
+:::
+
+:::

@@ -1,0 +1,59 @@
+{
+  "index.qmd": {
+    "index.html": "52bf2e5b"
+  },
+  "about.qmd": {
+    "about.html": "67f3c44a"
+  },
+  "my_career.qmd": {
+    "my_career.html": "7f39a073"
+  },
+  "publications.qmd": {
+    "publications.html": "fabdb12e"
+  },
+  "my_resume.qmd": {
+    "my_resume.html": "652c3d67"
+  },
+  "projects.qmd": {
+    "projects.html": "37b653d5"
+  },
+  "project_insecticides.qmd": {
+    "project_insecticides.html": "7858fd1a"
+  },
+  "project_anorythm.qmd": {
+    "project_anorythm.html": "c7fb27a0"
+  },
+  "project_IMPACT.qmd": {
+    "project_IMPACT.html": "4cf4827d"
+  },
+  "project_movLarv.qmd": {
+    "project_movLarv.html": "9f9fd96a"
+  },
+  "project_anivermate.qmd": {
+    "project_anivermate.html": "eec39e57"
+  },
+  "projects/project_IMPACT.qmd": {
+    "project_IMPACT.html": "d8f23199"
+  },
+  "projects/project_insecticides.qmd": {
+    "project_insecticides.html": "ae63069c"
+  },
+  "projects/project_anorythm.qmd": {
+    "project_anorythm.html": "3b0f1f59"
+  },
+  "projects/project_movLarv.qmd": {
+    "project_movLarv.html": "fac05a03"
+  },
+  "projects/project_anivermate.qmd": {
+    "project_anivermate.html": "9e110c03"
+  },
+  "project2.qmd": {
+    "project2.html": "11b17035"
+  },
+  "index2.qmd": {
+    "index2.html": "abf244be"
+  },
+  "projects/groupe_biostat.qmd": {
+    "groupe_biostat.html": "884a6d09"
+  }
+}

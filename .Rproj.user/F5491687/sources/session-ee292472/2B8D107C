@@ -1,0 +1,31 @@
+{
+    "id": "2B8D107C",
+    "path": "~/Nextcloud/Carriere/personnal_website/my_resume.qmd",
+    "project_path": "my_resume.qmd",
+    "type": "quarto_markdown",
+    "hash": "3072236467",
+    "contents": "",
+    "dirty": false,
+    "created": 1774877424264.0,
+    "source_on_save": false,
+    "relative_order": 15,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "7,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1775760702,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1775760702251,
+    "read_only": false,
+    "read_only_alternatives": []
+}
