@@ -42,11 +42,60 @@
     "text": "This project investigates the use of long-acting ivermectin formulations administered to livestock as a complementary malaria vector control strategy. It combines efficacy assessment on mosquito populations with the evaluation of environmental impact."
   },
   {
+    "objectID": "projects/project_anivermate.html#context",
+    "href": "projects/project_anivermate.html#context",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "",
+    "text": "This project investigates the use of long-acting ivermectin formulations administered to livestock as a complementary malaria vector control strategy. It combines efficacy assessment on mosquito populations with the evaluation of environmental impact."
+  },
+  {
+    "objectID": "projects/project_anivermate.html#objectives",
+    "href": "projects/project_anivermate.html#objectives",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "Objectives",
+    "text": "Objectives\n\nCharacterize pharmacokinetic (PK) properties of a long-acting ivermectin formulation\nAssess efficacy against Anopheles gambiae and An. coluzzii\nEvaluate environmental fate and impact on non-target fauna"
+  },
+  {
+    "objectID": "projects/project_anivermate.html#my-role",
+    "href": "projects/project_anivermate.html#my-role",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "My role",
+    "text": "My role\n\nManaged and curated experimental datasets, ensuring data quality and consistency\nPerformed pharmacokinetic analyses (non-compartmental modelling)\nConducted statistical modelling of efficacy outcomes (GLMM, survival analysis)\nContributed to the interpretation of results in both efficacy and ecotoxicological contexts"
+  },
+  {
+    "objectID": "projects/project_anivermate.html#methods-tools",
+    "href": "projects/project_anivermate.html#methods-tools",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "Methods & tools",
+    "text": "Methods & tools\n\nNon-compartmental PK modelling (AUC, Tmax, half-life)\nSurvival analysis (Kaplan–Meier, Cox models)\nGeneralized linear mixed models (binomial outcomes)\nR (tidyverse, ggplot2, glmmTMB, survival, coxme, PKNCA)"
+  },
+  {
+    "objectID": "projects/project_anivermate.html#key-results",
+    "href": "projects/project_anivermate.html#key-results",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "Key results",
+    "text": "Key results\n\nSustained mosquitocidal efficacy observed for more than 6 months\nSignificant reduction in mosquito survival and population size through treated livestock\nEffective targeting of zoophagic and opportunistic malaria vectors\nIdentification of measurable ecotoxicological risks for non-target organisms"
+  },
+  {
+    "objectID": "projects/project_anivermate.html#impact",
+    "href": "projects/project_anivermate.html#impact",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "Impact",
+    "text": "Impact\n\nSupports the development of long-lasting vector control strategies with reduced intervention frequency\nContributes to complementary approaches targeting residual malaria transmission\nInformed the balance between efficacy and environmental sustainability in deployment strategies"
+  },
+  {
+    "objectID": "projects/project_anivermate.html#publications-and-project-link",
+    "href": "projects/project_anivermate.html#publications-and-project-link",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "Publications and project link",
+    "text": "Publications and project link\nHeinrich et al. (2024)\nGithub link of the project : Anivermate"
+  },
+  {
     "objectID": "projects/project_anorythm.html",
     "href": "projects/project_anorythm.html",
-    "title": "ANORYTHM",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
     "section": "",
-    "text": "Context\n“Right time define a good vector”. Indeed, the activity rhythm is crucial for the transmission. In this project, we had studied the impact of different parameters on rhythm of Anopheles coluzzii, from mutation to exposition to light.\nObjectives\nEstimation of parameters that characterize the rhythm of mosquitoes as period, onset time, maximum activity time … and compare them between group. Other parts of the project was to test a data driven approach to estimate probability of being in activity or not and decompose activity in different level of activity.\nMethods\n\nData management, data quality control and cure\nChi square periodogram, creation of specific function for automatisation of parameter estimation as onset time, maximum activity time …\nGeneralized linear mixed models with zero inflation\nHidden Markov models (HMM)\n\nTools\nR (tidyverse, ggplot2, dplyr, glmmTMB, broom.mixed, xsp, momentuHMM)\nKey Results\n\nInsemination and gonotrophic status alter locomotor activity rhythms.\nInseminated females maintain activity during the subjective day under DD conditions.\nSuggests possible daytime activity of A. coluzzii under low-light conditions.\nA data-driven framework enables the estimation of activity probability and intensity over time. Hidden Markov Models (HMM) allow identification of distinct activity states and their temporal probabilities. These approaches facilitate assessment of how biological and environmental factors influence specific activity states, improving understanding of rhythm modulation.\n\nImpact\nPotential residual malaria transmission during daytime. This project advanced our understanding of how Anopheles coluzzii activity rhythms respond to both external and internal variability.(Traoré et al. (2021)).\n\n\n\n\nReferences\n\nTraoré, Amadou S., Angélique Porciani, Nicolas Moiroux, Roch K. Dabiré, Frédéric Simard, Carlo Costantini, and Karine Mouline. 2021. “Effects of Insemination and Blood-Feeding on Locomotor Activity of Wild-Derived Females of the Malaria Mosquito Anopheles Coluzzii.” Parasites & Vectors 14 (1): 457. https://doi.org/10.1186/s13071-021-04967-0."
+    "text": "“Right time define a good vector”. Mosquito activity rhythms play a key role in malaria transmission. This project investigates how biological factors (e.g. insemination status) and environmental conditions (e.g. light exposure) influence the activity patterns of Anopheles coluzzii."
   },
   {
     "objectID": "projects/project_IMPACT.html",
@@ -193,7 +242,7 @@
     "href": "project2.html",
     "title": "Projects",
     "section": "",
-    "text": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticides evaluation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nMosquito behavioural analysis under insecticide exposure\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticides evaluation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nMosquito behavioural analysis under insecticide exposure\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -217,52 +266,52 @@
     "text": "I enjoy working at the interplay of data, biology and real-world questions.\n\nContact\n📧 angelique.porciani@gmail.com\nGitHub\nLinkedIn\n\n\nHello! I’m Angélique Porciani, a biostatistician and data analyst with over 12 years of experience working with complex data in life sciences.\nOver the years, I’ve developed strong expertise in statistical modelling and data analysis with R, applied to a wide range of projects in epidemiology, health, and environmental sciences.\nI particularly enjoy working with complex, time-dependent data, such as time series and longitudinal datasets, using statistical and machine learning approaches to explore patterns and support data-driven decisions. I also have experience with survival and dose-response models in the context of evaluating treatment efficacy.\nMore broadly, I’m interested in leveraging data to better understand complex systems and inform decision-making, whether in research or applied contexts. I’m especially motivated by projects where data can bring clarity to real-world challenges.\nBeyond the technical side, I’ve coordinated projects, collaborated with diverse stakeholders, and communicated results to both technical and non-technical audiences. I enjoy working in interdisciplinary environments and value collaboration and knowledge sharing.\nI’m currently seeking opportunities as a data analyst where I can apply my analytical skills to real-world data and contribute to impactful, data-driven projects.\n\n\n\n\n\n\n🛠 Skills\nLanguages & Tools: R (tidyverse, dplyr, ggplot2), SAS, SQL, Excel, Latex, Quarto, Python, bash, Notion\nStatistical Methods: descriptive statistics, regression linear or not, survival & dose-response modelling\nMachine Learning: variable selection, clustering, predictive modelling\nData Visualization & Reporting: dynamics html report (Quarto), KPI creation, summary tables, clear visual communication\nSoft Skills: collaboration, teaching, project coordination, interdisciplinary teamwork\n\n\n\nCurrent Focus\n\nCleaning, transforming, and exploring complex datasets for actionable insights\nCreating clear visualizations, dashboards, and indicators for decision-making\nApplying statistical modelling & machine learning to real-world biological data\nTime-dependent data: time series, longitudinal datasets\nSurvival & dose-response analyses to evaluate new molecules or interventions"
   },
   {
-    "objectID": "projects/project_anivermate.html#context",
-    "href": "projects/project_anivermate.html#context",
-    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "objectID": "projects/project_anorythm.html#context",
+    "href": "projects/project_anorythm.html#context",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
     "section": "",
-    "text": "This project investigates the use of long-acting ivermectin formulations administered to livestock as a complementary malaria vector control strategy. It combines efficacy assessment on mosquito populations with the evaluation of environmental impact."
+    "text": "“Right time define a good vector”. Mosquito activity rhythms play a key role in malaria transmission. This project investigates how biological factors (e.g. insemination status) and environmental conditions (e.g. light exposure) influence the activity patterns of Anopheles coluzzii."
   },
   {
-    "objectID": "projects/project_anivermate.html#objectives",
-    "href": "projects/project_anivermate.html#objectives",
-    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "objectID": "projects/project_anorythm.html#objectives",
+    "href": "projects/project_anorythm.html#objectives",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
     "section": "Objectives",
-    "text": "Objectives\n\nCharacterize pharmacokinetic (PK) properties of a long-acting ivermectin formulation\nAssess efficacy against Anopheles gambiae and An. coluzzii\nEvaluate environmental fate and impact on non-target fauna"
+    "text": "Objectives\n\nEstimate key parameters characterizing activity rhythms (period, onset time, peak activity)\nCompare behavioural patterns across experimental groups\nDevelop a data-driven framework to model activity states and intensity over time"
   },
   {
-    "objectID": "projects/project_anivermate.html#my-role",
-    "href": "projects/project_anivermate.html#my-role",
-    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "objectID": "projects/project_anorythm.html#my-role",
+    "href": "projects/project_anorythm.html#my-role",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
     "section": "My role",
-    "text": "My role\n\nManaged and curated experimental datasets, ensuring data quality and consistency\nPerformed pharmacokinetic analyses (non-compartmental modelling)\nConducted statistical modelling of efficacy outcomes (GLMM, survival analysis)\nContributed to the interpretation of results in both efficacy and ecotoxicological contexts"
+    "text": "My role\n\nManaged and processed behavioural time-series datasets\nDeveloped automated pipelines for extracting rhythm-related metrics (e.g. onset time, peak activity)\nPerformed statistical modelling (GLMM, zero-inflation models)\nImplemented Hidden Markov Models (HMM) to classify activity states and estimate transition probabilities\nAnalysed and interpreted behavioural patterns across biological and environmental conditions\nSupervision of master and PhD students"
   },
   {
-    "objectID": "projects/project_anivermate.html#methods-tools",
-    "href": "projects/project_anivermate.html#methods-tools",
-    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "objectID": "projects/project_anorythm.html#methods-tools",
+    "href": "projects/project_anorythm.html#methods-tools",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
     "section": "Methods & tools",
-    "text": "Methods & tools\n\nNon-compartmental PK modelling (AUC, Tmax, half-life)\nSurvival analysis (Kaplan–Meier, Cox models)\nGeneralized linear mixed models (binomial outcomes)\nR (tidyverse, ggplot2, glmmTMB, survival, coxme, PKNCA)"
+    "text": "Methods & tools\n\nTime-series analysis and feature extraction\nChi-square periodogram for rhythm detection\nGeneralized linear mixed models (including zero-inflation)\nHidden Markov Models (HMM) for state classification\nR (tidyverse, ggplot2, glmmTMB, momentuHMM, xsp)"
   },
   {
-    "objectID": "projects/project_anivermate.html#key-results",
-    "href": "projects/project_anivermate.html#key-results",
-    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
-    "section": "Key results",
-    "text": "Key results\n\nSustained mosquitocidal efficacy observed for more than 6 months\nSignificant reduction in mosquito survival and population size through treated livestock\nEffective targeting of zoophagic and opportunistic malaria vectors\nIdentification of measurable ecotoxicological risks for non-target organisms"
+    "objectID": "projects/project_anorythm.html#key-results",
+    "href": "projects/project_anorythm.html#key-results",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "section": "Key Results",
+    "text": "Key Results\n\nInsemination and gonotrophic status significantly affect locomotor activity rhythms\nEvidence of maintained activity during subjective day under constant darkness\nIdentification of potential daytime activity under low-light conditions\nData-driven modelling (HMM) enabled classification of activity states and quantification of behavioural dynamics over time"
   },
   {
-    "objectID": "projects/project_anivermate.html#impact",
-    "href": "projects/project_anivermate.html#impact",
-    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "objectID": "projects/project_anorythm.html#impact",
+    "href": "projects/project_anorythm.html#impact",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
     "section": "Impact",
-    "text": "Impact\n\nSupports the development of long-lasting vector control strategies with reduced intervention frequency\nContributes to complementary approaches targeting residual malaria transmission\nInformed the balance between efficacy and environmental sustainability in deployment strategies"
+    "text": "Impact\nHighlights the potential for residual malaria transmission during daytime Provides quantitative tools to better understand behavioural variability in malaria vectors Supports improved modelling of transmission dynamics by integrating behavioural patterns"
   },
   {
-    "objectID": "projects/project_anivermate.html#publications-and-project-link",
-    "href": "projects/project_anivermate.html#publications-and-project-link",
-    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
-    "section": "Publications and project link",
-    "text": "Publications and project link\nHeinrich et al. (2024)\nGithub link of the project : Anivermate"
+    "objectID": "projects/project_anorythm.html#publications",
+    "href": "projects/project_anorythm.html#publications",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "section": "Publications",
+    "text": "Publications\nTraoré et al. (2021)"
   }
 ]
