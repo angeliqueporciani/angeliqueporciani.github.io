@@ -56,6 +56,55 @@
     "text": "This project aimed to evaluate new long-acting injectable formulations of ivermectin as a complementary strategy for malaria vector control. A key challenge was extending the duration of efficacy beyond current limitations (&lt;7 days)."
   },
   {
+    "objectID": "projects/project_IMPACT.html#context",
+    "href": "projects/project_IMPACT.html#context",
+    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
+    "section": "",
+    "text": "This project aimed to evaluate new long-acting injectable formulations of ivermectin as a complementary strategy for malaria vector control. A key challenge was extending the duration of efficacy beyond current limitations (&lt;7 days)."
+  },
+  {
+    "objectID": "projects/project_IMPACT.html#objectives",
+    "href": "projects/project_IMPACT.html#objectives",
+    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
+    "section": "Objectives",
+    "text": "Objectives\n\nIdentify the optimal formulation and dose meeting WHO Preferred Product Characteristics (HR &gt; 4 for at least one month)\nEvaluate efficacy in semi-field conditions (cattle–wild mosquitoes)\nEstimate the epidemiological impact on malaria prevalence\nAssess resistance development in Anopheles and Aedes\nStudy potential behavioural effects on mosquito host-seeking"
+  },
+  {
+    "objectID": "projects/project_IMPACT.html#my-role",
+    "href": "projects/project_IMPACT.html#my-role",
+    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
+    "section": "My role",
+    "text": "My role\n\nDesigned study protocols, including sample size estimation and power calculations\nDeveloped and implemented the statistical analysis plan\nPerformed data management, cleaning, and quality control\nConducted statistical analyses (survival models, GLMM, GAM, PK/PD, dose-response; epidemiological model)\nSupervised students and supported partners in data analysis and interpretation\nCommunicated results to diverse stakeholders (scientific and non-scientific audiences)"
+  },
+  {
+    "objectID": "projects/project_IMPACT.html#methods-and-tools",
+    "href": "projects/project_IMPACT.html#methods-and-tools",
+    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
+    "section": "Methods and tools",
+    "text": "Methods and tools\n\nSurvival analysis, GLMM, GAM, PK/PD modelling, non-linear dose-response, epidemiological model SAP, DMP redaction, study design, sample size estimation, power calculation, indicator of efficacy creation\nR (tidyverse, ggplot2, glmmTMB, coxme, mgcv, drc, PKNCA)\nData management and reporting (R, Excel, Word, Quarto)\nStudy design, sample size estimation, power calculation, indicator of efficacy creation"
+  },
+  {
+    "objectID": "projects/project_IMPACT.html#key-results",
+    "href": "projects/project_IMPACT.html#key-results",
+    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
+    "section": "Key Results",
+    "text": "Key Results\n\nSustained mosquitocidal efficacy for at least two months with HR &gt; 4, meeting WHO PPC\nRepeated treatment campaigns significantly reduced malaria prevalence (up to ~78%)\nEvidence of differential resistance between Aedes and Anopheles\nNo significant effect on host-seeking behaviour"
+  },
+  {
+    "objectID": "projects/project_IMPACT.html#impact",
+    "href": "projects/project_IMPACT.html#impact",
+    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
+    "section": "Impact",
+    "text": "Impact\nContributed to the development of a novel malaria control strategy aligned with WHO recommendations Supported the selection of a lead formulation, enabling progression to Phase I clinical trials Provided key insights for deployment strategies, including resistance management"
+  },
+  {
+    "objectID": "projects/project_IMPACT.html#publications",
+    "href": "projects/project_IMPACT.html#publications",
+    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
+    "section": "Publications",
+    "text": "Publications\nSagna et al. (2023) ; Pooda et al. (2026) ; Zela et al. (2026) ; Dongmo et al. (2025)"
+  },
+  {
     "objectID": "my_career.html",
     "href": "my_career.html",
     "title": "Experience",
@@ -79,9 +128,9 @@
   {
     "objectID": "projects/project_movLarv.html",
     "href": "projects/project_movLarv.html",
-    "title": "Larvae Movement",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
     "section": "",
-    "text": "Context\nEnvironment is more and more polluted by insecticides, particularly in water collection where mosquitoes larvae developed themselves. The quantity found in these places could be insufficient to kill mosquitoes larvae, but could have indirect effect on movement or other life history traits. Moreover, these effect could be observed in adult mosquitoes later and have impact on traits and in malaria transmission.\nObjectives\n\nDevelop a set up low cost, usable on field condition that allow video recording of multiple larvae\nDevelop an application that allow tracking of larvae\nAnalysis of larvae movement and adult activity from univariate to multivariate analysis and use of HMM for activity characterization of larvae and adult\n\nMethods\n\nStudy design, sample size, dose choice, experiment realisation\nData collection, management, data quality control, cure and storage (FAIR principle)\nChi square periodogram, creation of specific function for automatisation of parameter estimation as onset time, maximum activity time …\nUnivariate and multivariate analysis\nHidden Markov models (HMM)\n\nTools\nR (tidyverse, ggplot2, dplyr, glmmTMB, broom.mixed, xsp, momentuHMM, PCA)\nKey Results\nData analysis is still ongoing, but some promising results show a difference of response between exposed and non exposed mosquitoes larvae and adults…"
+    "text": "Environmental exposure to low concentrations of insecticides is increasingly common, particularly in mosquito breeding sites. While these concentrations may not be lethal, they can induce sub-lethal effects on behaviour and life-history traits, potentially impacting malaria transmission dynamics."
   },
   {
     "objectID": "projects/groupe_biostat.html",
@@ -102,7 +151,7 @@
     "href": "project2.html",
     "title": "Projects",
     "section": "",
-    "text": "ANIVERMATE\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticides evaluation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nLarvae Movement\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "ANIVERMATE\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticides evaluation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nMosquito behavioural analysis under insecticide exposure\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -126,52 +175,45 @@
     "text": "I enjoy working at the interplay of data, biology and real-world questions.\n\nContact\n📧 angelique.porciani@gmail.com\nGitHub\nLinkedIn\n\n\nHello! I’m Angélique Porciani, a biostatistician and data analyst with over 12 years of experience working with complex data in life sciences.\nOver the years, I’ve developed strong expertise in statistical modelling and data analysis with R, applied to a wide range of projects in epidemiology, health, and environmental sciences.\nI particularly enjoy working with complex, time-dependent data, such as time series and longitudinal datasets, using statistical and machine learning approaches to explore patterns and support data-driven decisions. I also have experience with survival and dose-response models in the context of evaluating treatment efficacy.\nMore broadly, I’m interested in leveraging data to better understand complex systems and inform decision-making, whether in research or applied contexts. I’m especially motivated by projects where data can bring clarity to real-world challenges.\nBeyond the technical side, I’ve coordinated projects, collaborated with diverse stakeholders, and communicated results to both technical and non-technical audiences. I enjoy working in interdisciplinary environments and value collaboration and knowledge sharing.\nI’m currently seeking opportunities as a data analyst where I can apply my analytical skills to real-world data and contribute to impactful, data-driven projects.\n\n\n\n\n\n\n🛠 Skills\nLanguages & Tools: R (tidyverse, dplyr, ggplot2), SAS, SQL, Excel, Latex, Quarto, Python, bash, Notion\nStatistical Methods: descriptive statistics, regression linear or not, survival & dose-response modelling\nMachine Learning: variable selection, clustering, predictive modelling\nData Visualization & Reporting: dynamics html report (Quarto), KPI creation, summary tables, clear visual communication\nSoft Skills: collaboration, teaching, project coordination, interdisciplinary teamwork\n\n\n\nCurrent Focus\n\nCleaning, transforming, and exploring complex datasets for actionable insights\nCreating clear visualizations, dashboards, and indicators for decision-making\nApplying statistical modelling & machine learning to real-world biological data\nTime-dependent data: time series, longitudinal datasets\nSurvival & dose-response analyses to evaluate new molecules or interventions"
   },
   {
-    "objectID": "projects/project_IMPACT.html#context",
-    "href": "projects/project_IMPACT.html#context",
-    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
+    "objectID": "projects/project_movLarv.html#context",
+    "href": "projects/project_movLarv.html#context",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
     "section": "",
-    "text": "This project aimed to evaluate new long-acting injectable formulations of ivermectin as a complementary strategy for malaria vector control. A key challenge was extending the duration of efficacy beyond current limitations (&lt;7 days)."
+    "text": "Environmental exposure to low concentrations of insecticides is increasingly common, particularly in mosquito breeding sites. While these concentrations may not be lethal, they can induce sub-lethal effects on behaviour and life-history traits, potentially impacting malaria transmission dynamics."
   },
   {
-    "objectID": "projects/project_IMPACT.html#objectives",
-    "href": "projects/project_IMPACT.html#objectives",
-    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
+    "objectID": "projects/project_movLarv.html#objectives",
+    "href": "projects/project_movLarv.html#objectives",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
     "section": "Objectives",
-    "text": "Objectives\n\nIdentify the optimal formulation and dose meeting WHO Preferred Product Characteristics (HR &gt; 4 for at least one month)\nEvaluate efficacy in semi-field conditions (cattle–wild mosquitoes)\nEstimate the epidemiological impact on malaria prevalence\nAssess resistance development in Anopheles and Aedes\nStudy potential behavioural effects on mosquito host-seeking"
+    "text": "Objectives\n\nDevelop a low-cost experimental setup for video recording of mosquito larvae in field conditions\nBuild a pipeline for tracking larvae movement\nAnalyse behavioural changes in larvae and adults using statistical and modelling approaches"
   },
   {
-    "objectID": "projects/project_IMPACT.html#methods-and-tools",
-    "href": "projects/project_IMPACT.html#methods-and-tools",
-    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
-    "section": "Methods and tools",
-    "text": "Methods and tools\n\nSurvival analysis, GLMM, GAM, PK/PD modelling, non-linear dose-response, epidemiological model SAP, DMP redaction, study design, sample size estimation, power calculation, indicator of efficacy creation\nR (tidyverse, ggplot2, glmmTMB, coxme, mgcv, drc, PKNCA)\nData management and reporting (R, Excel, Word, Quarto)\nStudy design, sample size estimation, power calculation, indicator of efficacy creation"
-  },
-  {
-    "objectID": "projects/project_IMPACT.html#my-role",
-    "href": "projects/project_IMPACT.html#my-role",
-    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
+    "objectID": "projects/project_movLarv.html#my-role",
+    "href": "projects/project_movLarv.html#my-role",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
     "section": "My role",
-    "text": "My role\n\nDesigned study protocols, including sample size estimation and power calculations\nDeveloped and implemented the statistical analysis plan\nPerformed data management, cleaning, and quality control\nConducted statistical analyses (survival models, GLMM, GAM, PK/PD, dose-response; epidemiological model)\nSupervised students and supported partners in data analysis and interpretation\nCommunicated results to diverse stakeholders (scientific and non-scientific audiences)"
+    "text": "My role\n\nDesigned experimental protocols, including dose selection and sample size considerations\nDeveloped data collection and management workflows (FAIR principles)\nProcessed and structured video-derived behavioural data\nImplemented statistical analyses and modelling approaches (univariate, multivariate, HMM)\nDeveloped custom functions in R to automate feature extraction (e.g. activity patterns, timing metrics)"
   },
   {
-    "objectID": "projects/project_IMPACT.html#key-results",
-    "href": "projects/project_IMPACT.html#key-results",
-    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
-    "section": "Key Results",
-    "text": "Key Results\n\nSustained mosquitocidal efficacy for at least two months with HR &gt; 4, meeting WHO PPC\nRepeated treatment campaigns significantly reduced malaria prevalence (up to ~78%)\nEvidence of differential resistance between Aedes and Anopheles\nNo significant effect on host-seeking behaviour"
+    "objectID": "projects/project_movLarv.html#methods-tools",
+    "href": "projects/project_movLarv.html#methods-tools",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
+    "section": "Methods & tools",
+    "text": "Methods & tools\n\nTime-series analysis and behavioural metrics extraction\nUnivariate and multivariate analysis (including PCA)\nHidden Markov Models (HMM) for activity state classification\nR (tidyverse, ggplot2, glmmTMB, broom.mixed, momentuHMM, PCA, xsp)"
   },
   {
-    "objectID": "projects/project_IMPACT.html#impact",
-    "href": "projects/project_IMPACT.html#impact",
-    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
-    "section": "Impact",
-    "text": "Impact\nContributed to the development of a novel malaria control strategy aligned with WHO recommendations Supported the selection of a lead formulation, enabling progression to Phase I clinical trials Provided key insights for deployment strategies, including resistance management"
+    "objectID": "projects/project_movLarv.html#key-results",
+    "href": "projects/project_movLarv.html#key-results",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
+    "section": "Key results",
+    "text": "Key results\n\nPreliminary analyses indicate behavioural differences between exposed and non-exposed mosquito larvae and adults\nEvidence of sub-lethal effects impacting activity patterns"
   },
   {
-    "objectID": "projects/project_IMPACT.html#publications",
-    "href": "projects/project_IMPACT.html#publications",
-    "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
-    "section": "Publications",
-    "text": "Publications\nSagna et al. (2023) ; Pooda et al. (2026) ; Zela et al. (2026) ; Dongmo et al. (2025)"
+    "objectID": "projects/project_movLarv.html#impact-perspective",
+    "href": "projects/project_movLarv.html#impact-perspective",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
+    "section": "Impact / perspective",
+    "text": "Impact / perspective\n\nProvides new insights into sub-lethal effects of insecticides on mosquito behaviour\nContributes to a better understanding of environmental drivers of malaria transmission\nOngoing analyses aim to refine behavioural indicators and improve modelling of exposure effects"
   }
 ]
