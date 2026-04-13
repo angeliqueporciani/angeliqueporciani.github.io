@@ -9,6 +9,7 @@ categories: [Behavioral ecology, Time series analysis, GLMM, ML, Vector]
 
 Environmental exposure to low concentrations of insecticides is increasingly common, particularly in mosquito breeding sites. While these concentrations may not be lethal, they can induce sub-lethal effects on behaviour and life-history traits, potentially impacting malaria transmission dynamics.
 
+This project combines experimental design, data processing, and advanced modelling of behavioural time-series data.
 
 ## **Objectives**  
 

@@ -1,44 +1,50 @@
 ---
-title: "ANIVERMATE"
+title: "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact"
 image: ../content/img/ANIVERMATE_pic.png
 description: "Efficacy assessment of Ivermectin in cattle"
 bibliography: ../content/publications.bib
-categories: [Epidemiology, Eco-toxicology, PK/PD, Survival, GLMM, Malaria]
+categories: [Data Analysis, Biostatistics, PK/PD Modelling, Survival Analysis, Clinical Research, Environmental Impact]
 ---
 
-**Context**
+## **Context**
 
-The use of endectocides such as ivermectin as an additional malaria control tool is now receiving increased attention, driven by its different mode of action compared to insecticides used so far and its excellent safety record for humans. In this project, we assess the efficacy against mosquitoes of a long lasting formulation of Ivermectin injected in cattle and its fate in environment.
+This project investigates the use of long-acting ivermectin formulations administered to livestock as a complementary malaria vector control strategy. It combines efficacy assessment on mosquito populations with the evaluation of environmental impact.
 
-**Objectives**
+## **Objectives**
 
-Characterization of PK properties of a new long acting formulation of Ivermectin and efficacy assessment against *Anopheles gambiae* and *An. coluzzii*. Estimation of the impact on non target fauna and fate in sediment.
+- Characterize pharmacokinetic (PK) properties of a long-acting ivermectin formulation
+- Assess efficacy against Anopheles gambiae and An. coluzzii
+- Evaluate environmental fate and impact on non-target fauna
 
-**Methods**
+## **My role** 
 
--   Data management, data quality control and cure
+- Managed and curated experimental datasets, ensuring data quality and consistency
+- Performed pharmacokinetic analyses (non-compartmental modelling)
+- Conducted statistical modelling of efficacy outcomes (GLMM, survival analysis)
+- Contributed to the interpretation of results in both efficacy and ecotoxicological contexts
 
--   Non compartmental PK model for parameters estimations : AUC, Tmax, $t_{1/2}$...
+## **Methods & tools**
 
--   Generalized linear mixed models (binomial distribution)
+- Non-compartmental PK modelling (AUC, Tmax, half-life)
+- Survival analysis (Kaplan–Meier, Cox models)
+- Generalized linear mixed models (binomial outcomes)
+- R (tidyverse, ggplot2, glmmTMB, survival, coxme, PKNCA)
 
--   Survival : cox, kaplan meier.
+## **Key results**
 
-**Tools**\
-- R (tidyverse, ggplot2, dplyr, glmmTMB, survival, coxme, PKNCA)
+- Sustained mosquitocidal efficacy observed for more than 6 months
+- Significant reduction in mosquito survival and population size through treated livestock
+- Effective targeting of zoophagic and opportunistic malaria vectors
+- Identification of measurable ecotoxicological risks for non-target organisms
 
-**Key Results**
+## **Impact**
 
--   Long-acting ivermectin formulation tested can sustain mosquitocidal effects for \>6 months.
+- Supports the development of long-lasting vector control strategies with reduced intervention frequency
+- Contributes to complementary approaches targeting residual malaria transmission
+- Informed the balance between efficacy and environmental sustainability in deployment strategies
 
--   Ivermectin-treated cattle can significantly reduce mosquito survival and population size
+## **Publications and project link**
 
--   Livestock-based vector control targets zoophagic and opportunistic malaria vectors
-
--   There are measurable ecotoxicological risks to non-target dung fauna and soil ecosystems
-
-**Impact**
-
-Sustained mosquitocidal activity achieved through long-acting ivermectin formulations supports durable vector control strategies while reducing the need for frequent interventions. By targeting zoophagic and opportunistic vectors via treated livestock, this approach complements human-centered measures and addresses residual transmission. The resulting decrease in mosquito survival and population density is expected to contribute to reduced malaria transmission at the community level. However, the identification of ecotoxicological risks underscores the importance of developing environmentally sustainable implementation frameworks that balance intervention efficacy with ecosystem integrity. (@heinrich_ecotoxicological_2024).
+@heinrich_ecotoxicological_2024
 
 Github link of the project : [Anivermate](#0)
