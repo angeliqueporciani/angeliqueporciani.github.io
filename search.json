@@ -128,9 +128,51 @@
   {
     "objectID": "projects/project_movLarv.html",
     "href": "projects/project_movLarv.html",
-    "title": "Larvae Movement",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
     "section": "",
-    "text": "Context\nEnvironment is more and more polluted by insecticides, particularly in water collection where mosquitoes larvae developed themselves. The quantity found in these places could be insufficient to kill mosquitoes larvae, but could have indirect effect on movement or other life history traits. Moreover, these effect could be observed in adult mosquitoes later and have impact on traits and in malaria transmission.\nObjectives\n\nDevelop a set up low cost, usable on field condition that allow video recording of multiple larvae\nDevelop an application that allow tracking of larvae\nAnalysis of larvae movement and adult activity from univariate to multivariate analysis and use of HMM for activity characterization of larvae and adult\n\nMethods\n\nStudy design, sample size, dose choice, experiment realisation\nData collection, management, data quality control, cure and storage (FAIR principle)\nChi square periodogram, creation of specific function for automatisation of parameter estimation as onset time, maximum activity time …\nUnivariate and multivariate analysis\nHidden Markov models (HMM)\n\nTools\nR (tidyverse, ggplot2, dplyr, glmmTMB, broom.mixed, xsp, momentuHMM, PCA)\nKey Results\nData analysis is still ongoing, but some promising results show a difference of response between exposed and non exposed mosquitoes larvae and adults…"
+    "text": "Environmental exposure to low concentrations of insecticides is increasingly common, particularly in mosquito breeding sites. While these concentrations may not be lethal, they can induce sub-lethal effects on behaviour and life-history traits, potentially impacting malaria transmission dynamics."
+  },
+  {
+    "objectID": "projects/project_movLarv.html#context",
+    "href": "projects/project_movLarv.html#context",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
+    "section": "",
+    "text": "Environmental exposure to low concentrations of insecticides is increasingly common, particularly in mosquito breeding sites. While these concentrations may not be lethal, they can induce sub-lethal effects on behaviour and life-history traits, potentially impacting malaria transmission dynamics."
+  },
+  {
+    "objectID": "projects/project_movLarv.html#objectives",
+    "href": "projects/project_movLarv.html#objectives",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
+    "section": "Objectives",
+    "text": "Objectives\n\nDevelop a low-cost experimental setup for video recording of mosquito larvae in field conditions\nBuild a pipeline for tracking larvae movement\nAnalyse behavioural changes in larvae and adults using statistical and modelling approaches"
+  },
+  {
+    "objectID": "projects/project_movLarv.html#my-role",
+    "href": "projects/project_movLarv.html#my-role",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
+    "section": "My role",
+    "text": "My role\n\nDesigned experimental protocols, including dose selection and sample size considerations\nDeveloped data collection and management workflows (FAIR principles)\nProcessed and structured video-derived behavioural data\nImplemented statistical analyses and modelling approaches (univariate, multivariate, HMM)\nDeveloped custom functions in R to automate feature extraction (e.g. activity patterns, timing metrics)"
+  },
+  {
+    "objectID": "projects/project_movLarv.html#methods-tools",
+    "href": "projects/project_movLarv.html#methods-tools",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
+    "section": "Methods & tools",
+    "text": "Methods & tools\n\nTime-series analysis and behavioural metrics extraction\nUnivariate and multivariate analysis (including PCA)\nHidden Markov Models (HMM) for activity state classification\nR (tidyverse, ggplot2, glmmTMB, broom.mixed, momentuHMM, PCA, xsp)"
+  },
+  {
+    "objectID": "projects/project_movLarv.html#key-results",
+    "href": "projects/project_movLarv.html#key-results",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
+    "section": "Key results",
+    "text": "Key results\n\nPreliminary analyses indicate behavioural differences between exposed and non-exposed mosquito larvae and adults\nEvidence of sub-lethal effects impacting activity patterns"
+  },
+  {
+    "objectID": "projects/project_movLarv.html#impact-perspective",
+    "href": "projects/project_movLarv.html#impact-perspective",
+    "title": "Mosquito behavioural analysis under insecticide exposure",
+    "section": "Impact / perspective",
+    "text": "Impact / perspective\n\nProvides new insights into sub-lethal effects of insecticides on mosquito behaviour\nContributes to a better understanding of environmental drivers of malaria transmission\nOngoing analyses aim to refine behavioural indicators and improve modelling of exposure effects"
   },
   {
     "objectID": "projects/groupe_biostat.html",
@@ -151,7 +193,7 @@
     "href": "project2.html",
     "title": "Projects",
     "section": "",
-    "text": "ANIVERMATE\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticides evaluation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nLarvae Movement\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "ANIVERMATE\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticides evaluation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nMosquito behavioural analysis under insecticide exposure\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",

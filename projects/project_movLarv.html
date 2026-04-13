@@ -8,7 +8,7 @@
 
 <meta name="description" content="Studies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation">
 
-<title>Larvae Movement – Angélique Porciani</title>
+<title>Mosquito behavioural analysis under insecticide exposure – Angélique Porciani</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -132,15 +132,26 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#context" id="toc-context" class="nav-link active" data-scroll-target="#context"><strong>Context</strong></a></li>
+  <li><a href="#objectives" id="toc-objectives" class="nav-link" data-scroll-target="#objectives"><strong>Objectives</strong></a></li>
+  <li><a href="#my-role" id="toc-my-role" class="nav-link" data-scroll-target="#my-role"><strong>My role</strong></a></li>
+  <li><a href="#methods-tools" id="toc-methods-tools" class="nav-link" data-scroll-target="#methods-tools"><strong>Methods &amp; tools</strong></a></li>
+  <li><a href="#key-results" id="toc-key-results" class="nav-link" data-scroll-target="#key-results"><strong>Key results</strong></a></li>
+  <li><a href="#impact-perspective" id="toc-impact-perspective" class="nav-link" data-scroll-target="#impact-perspective"><strong>Impact / perspective</strong></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Larvae Movement</h1>
+<h1 class="title">Mosquito behavioural analysis under insecticide exposure</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Behavioral ecology</div>
     <div class="quarto-category">Time series analysis</div>
@@ -169,28 +180,54 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>Context</strong></p>
-<p>Environment is more and more polluted by insecticides, particularly in water collection where mosquitoes larvae developed themselves. The quantity found in these places could be insufficient to kill mosquitoes larvae, but could have indirect effect on movement or other life history traits. Moreover, these effect could be observed in adult mosquitoes later and have impact on traits and in malaria transmission.</p>
-<p><strong>Objectives</strong></p>
+<section id="context" class="level2">
+<h2 class="anchored" data-anchor-id="context"><strong>Context</strong></h2>
+<p>Environmental exposure to low concentrations of insecticides is increasingly common, particularly in mosquito breeding sites. While these concentrations may not be lethal, they can induce sub-lethal effects on behaviour and life-history traits, potentially impacting malaria transmission dynamics.</p>
+</section>
+<section id="objectives" class="level2">
+<h2 class="anchored" data-anchor-id="objectives"><strong>Objectives</strong></h2>
 <ul>
-<li><p>Develop a set up low cost, usable on field condition that allow video recording of multiple larvae</p></li>
-<li><p>Develop an application that allow tracking of larvae</p></li>
-<li><p>Analysis of larvae movement and adult activity from univariate to multivariate analysis and use of HMM for activity characterization of larvae and adult</p></li>
+<li>Develop a low-cost experimental setup for video recording of mosquito larvae in field conditions</li>
+<li>Build a pipeline for tracking larvae movement</li>
+<li>Analyse behavioural changes in larvae and adults using statistical and modelling approaches</li>
 </ul>
-<p><strong>Methods</strong></p>
+</section>
+<section id="my-role" class="level2">
+<h2 class="anchored" data-anchor-id="my-role"><strong>My role</strong></h2>
 <ul>
-<li><p>Study design, sample size, dose choice, experiment realisation</p></li>
-<li><p>Data collection, management, data quality control, cure and storage (FAIR principle)</p></li>
-<li><p>Chi square periodogram, creation of specific function for automatisation of parameter estimation as onset time, maximum activity time …</p></li>
-<li><p>Univariate and multivariate analysis</p></li>
-<li><p>Hidden Markov models (HMM)</p></li>
+<li><p>Designed experimental protocols, including dose selection and sample size considerations</p></li>
+<li><p>Developed data collection and management workflows (FAIR principles)</p></li>
+<li><p>Processed and structured video-derived behavioural data</p></li>
+<li><p>Implemented statistical analyses and modelling approaches (univariate, multivariate, HMM)</p></li>
+<li><p>Developed custom functions in R to automate feature extraction (e.g.&nbsp;activity patterns, timing metrics)</p></li>
 </ul>
-<p><strong>Tools</strong><br>
-R (tidyverse, ggplot2, dplyr, glmmTMB, broom.mixed, xsp, momentuHMM, PCA)</p>
-<p><strong>Key Results</strong></p>
-<p>Data analysis is still ongoing, but some promising results show a difference of response between exposed and non exposed mosquitoes larvae and adults…</p>
+</section>
+<section id="methods-tools" class="level2">
+<h2 class="anchored" data-anchor-id="methods-tools"><strong>Methods &amp; tools</strong></h2>
+<ul>
+<li>Time-series analysis and behavioural metrics extraction</li>
+<li>Univariate and multivariate analysis (including PCA)</li>
+<li>Hidden Markov Models (HMM) for activity state classification</li>
+<li>R (tidyverse, ggplot2, glmmTMB, broom.mixed, momentuHMM, PCA, xsp)</li>
+</ul>
+</section>
+<section id="key-results" class="level2">
+<h2 class="anchored" data-anchor-id="key-results"><strong>Key results</strong></h2>
+<ul>
+<li>Preliminary analyses indicate behavioural differences between exposed and non-exposed mosquito larvae and adults</li>
+<li>Evidence of sub-lethal effects impacting activity patterns</li>
+</ul>
+</section>
+<section id="impact-perspective" class="level2">
+<h2 class="anchored" data-anchor-id="impact-perspective"><strong>Impact / perspective</strong></h2>
+<ul>
+<li>Provides new insights into sub-lethal effects of insecticides on mosquito behaviour</li>
+<li>Contributes to a better understanding of environmental drivers of malaria transmission</li>
+<li>Ongoing analyses aim to refine behavioural indicators and improve modelling of exposure effects</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
