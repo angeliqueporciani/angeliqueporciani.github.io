@@ -8,7 +8,7 @@
 
 <meta name="description" content="Studies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation">
 
-<title>ANORYTHM – Angélique Porciani</title>
+<title>ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns – Angélique Porciani</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -137,7 +137,7 @@ div.csl-indent {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="../www.linkedin.com/in/angélique-porciani-82b83269"> <i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/angélique-porciani-82b83269"> <i class="bi bi-linkedin" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -152,21 +152,34 @@ div.csl-indent {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#context" id="toc-context" class="nav-link active" data-scroll-target="#context"><strong>Context</strong></a></li>
+  <li><a href="#objectives" id="toc-objectives" class="nav-link" data-scroll-target="#objectives"><strong>Objectives</strong></a></li>
+  <li><a href="#my-role" id="toc-my-role" class="nav-link" data-scroll-target="#my-role"><strong>My role</strong></a></li>
+  <li><a href="#methods-tools" id="toc-methods-tools" class="nav-link" data-scroll-target="#methods-tools"><strong>Methods &amp; tools</strong></a></li>
+  <li><a href="#key-results" id="toc-key-results" class="nav-link" data-scroll-target="#key-results"><strong>Key Results</strong></a></li>
+  <li><a href="#impact" id="toc-impact" class="nav-link" data-scroll-target="#impact"><strong>Impact</strong></a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications"><strong>Publications</strong></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">ANORYTHM</h1>
+<h1 class="title">ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Biological rhythm</div>
-    <div class="quarto-category">GLMM</div>
-    <div class="quarto-category">HMM</div>
-    <div class="quarto-category">Vector</div>
-    <div class="quarto-category">Malaria</div>
+    <div class="quarto-category">Data Analysis</div>
+    <div class="quarto-category">Time Series</div>
+    <div class="quarto-category">Behavioral Data</div>
+    <div class="quarto-category">Statistical Modelling</div>
+    <div class="quarto-category">Machine Learning</div>
+    <div class="quarto-category">Biostatistics</div>
   </div>
   </div>
 
@@ -189,31 +202,59 @@ div.csl-indent {
 </header>
 
 
-<p><strong>Context</strong></p>
-<p>“Right time define a good vector”. Indeed, the activity rhythm is crucial for the transmission. In this project, we had studied the impact of different parameters on rhythm of <em>Anopheles coluzzii</em>, from mutation to exposition to light.</p>
-<p><strong>Objectives</strong><br>
-Estimation of parameters that characterize the rhythm of mosquitoes as period, onset time, maximum activity time … and compare them between group. Other parts of the project was to test a data driven approach to estimate probability of being in activity or not and decompose activity in different level of activity.</p>
-<p><strong>Methods</strong></p>
+<section id="context" class="level2">
+<h2 class="anchored" data-anchor-id="context"><strong>Context</strong></h2>
+<p>“Right time define a good vector”. Mosquito activity rhythms play a key role in malaria transmission. This project investigates how biological factors (e.g.&nbsp;insemination status) and environmental conditions (e.g.&nbsp;light exposure) influence the activity patterns of <em>Anopheles coluzzii</em>.</p>
+</section>
+<section id="objectives" class="level2">
+<h2 class="anchored" data-anchor-id="objectives"><strong>Objectives</strong></h2>
 <ul>
-<li><p>Data management, data quality control and cure</p></li>
-<li><p>Chi square periodogram, creation of specific function for automatisation of parameter estimation as onset time, maximum activity time …</p></li>
-<li><p>Generalized linear mixed models with zero inflation</p></li>
-<li><p>Hidden Markov models (HMM)</p></li>
+<li>Estimate key parameters characterizing activity rhythms (period, onset time, peak activity)</li>
+<li>Compare behavioural patterns across experimental groups</li>
+<li>Develop a data-driven framework to model activity states and intensity over time</li>
 </ul>
-<p><strong>Tools</strong><br>
-R (tidyverse, ggplot2, dplyr, glmmTMB, broom.mixed, xsp, momentuHMM)</p>
-<p><strong>Key Results</strong></p>
+</section>
+<section id="my-role" class="level2">
+<h2 class="anchored" data-anchor-id="my-role"><strong>My role</strong></h2>
 <ul>
-<li><p>Insemination and gonotrophic status alter locomotor activity rhythms.</p></li>
-<li><p>Inseminated females maintain activity during the subjective day under DD conditions.</p></li>
-<li><p>Suggests possible daytime activity of <em>A. coluzzii</em> under low-light conditions.</p></li>
-<li><p>A data-driven framework enables the estimation of activity probability and intensity over time. Hidden Markov Models (HMM) allow identification of distinct activity states and their temporal probabilities. These approaches facilitate assessment of how biological and environmental factors influence specific activity states, improving understanding of rhythm modulation.</p></li>
+<li>Managed and processed behavioural time-series datasets</li>
+<li>Developed automated pipelines for extracting rhythm-related metrics (e.g.&nbsp;onset time, peak activity)</li>
+<li>Performed statistical modelling (GLMM, zero-inflation models)</li>
+<li>Implemented Hidden Markov Models (HMM) to classify activity states and estimate transition probabilities</li>
+<li>Analysed and interpreted behavioural patterns across biological and environmental conditions</li>
+<li>Supervision of master and PhD students</li>
 </ul>
-<p><strong>Impact</strong><br>
-Potential residual malaria transmission during daytime. This project advanced our understanding of how <em>Anopheles coluzzii</em> activity rhythms respond to both external and internal variability.(<span class="citation" data-cites="traore_effects_2021">Traoré et al. (<a href="#ref-traore_effects_2021" role="doc-biblioref">2021</a>)</span>).</p>
+</section>
+<section id="methods-tools" class="level2">
+<h2 class="anchored" data-anchor-id="methods-tools"><strong>Methods &amp; tools</strong></h2>
+<ul>
+<li>Time-series analysis and feature extraction</li>
+<li>Chi-square periodogram for rhythm detection</li>
+<li>Generalized linear mixed models (including zero-inflation)</li>
+<li>Hidden Markov Models (HMM) for state classification</li>
+<li>R (tidyverse, ggplot2, glmmTMB, momentuHMM, xsp)</li>
+</ul>
+</section>
+<section id="key-results" class="level2">
+<h2 class="anchored" data-anchor-id="key-results"><strong>Key Results</strong></h2>
+<ul>
+<li>Insemination and gonotrophic status significantly affect locomotor activity rhythms</li>
+<li>Evidence of maintained activity during subjective day under constant darkness</li>
+<li>Identification of potential daytime activity under low-light conditions</li>
+<li>Data-driven modelling (HMM) enabled classification of activity states and quantification of behavioural dynamics over time</li>
+</ul>
+</section>
+<section id="impact" class="level2">
+<h2 class="anchored" data-anchor-id="impact"><strong>Impact</strong></h2>
+<p>Highlights the potential for residual malaria transmission during daytime Provides quantitative tools to better understand behavioural variability in malaria vectors Supports improved modelling of transmission dynamics by integrating behavioural patterns</p>
+</section>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications"><strong>Publications</strong></h2>
+<p><span class="citation" data-cites="traore_effects_2021">Traoré et al. (<a href="#ref-traore_effects_2021" role="doc-biblioref">2021</a>)</span></p>
 
 
 
+</section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-traore_effects_2021" class="csl-entry" role="listitem">
