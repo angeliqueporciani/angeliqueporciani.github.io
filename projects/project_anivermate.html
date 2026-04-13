@@ -8,7 +8,7 @@
 
 <meta name="description" content="Efficacy assessment of Ivermectin in cattle">
 
-<title>ANIVERMATE – Angélique Porciani</title>
+<title>ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact – Angélique Porciani</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -90,35 +90,6 @@ div.csl-indent {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -181,22 +152,34 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#context" id="toc-context" class="nav-link active" data-scroll-target="#context"><strong>Context</strong></a></li>
+  <li><a href="#objectives" id="toc-objectives" class="nav-link" data-scroll-target="#objectives"><strong>Objectives</strong></a></li>
+  <li><a href="#my-role" id="toc-my-role" class="nav-link" data-scroll-target="#my-role"><strong>My role</strong></a></li>
+  <li><a href="#methods-tools" id="toc-methods-tools" class="nav-link" data-scroll-target="#methods-tools"><strong>Methods &amp; tools</strong></a></li>
+  <li><a href="#key-results" id="toc-key-results" class="nav-link" data-scroll-target="#key-results"><strong>Key results</strong></a></li>
+  <li><a href="#impact" id="toc-impact" class="nav-link" data-scroll-target="#impact"><strong>Impact</strong></a></li>
+  <li><a href="#publications-and-project-link" id="toc-publications-and-project-link" class="nav-link" data-scroll-target="#publications-and-project-link"><strong>Publications and project link</strong></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">ANIVERMATE</h1>
+<h1 class="title">ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Epidemiology</div>
-    <div class="quarto-category">Eco-toxicology</div>
-    <div class="quarto-category">PK/PD</div>
-    <div class="quarto-category">Survival</div>
-    <div class="quarto-category">GLMM</div>
-    <div class="quarto-category">Malaria</div>
+    <div class="quarto-category">Data Analysis</div>
+    <div class="quarto-category">Biostatistics</div>
+    <div class="quarto-category">PK/PD Modelling</div>
+    <div class="quarto-category">Survival Analysis</div>
+    <div class="quarto-category">Clinical Research</div>
+    <div class="quarto-category">Environmental Impact</div>
   </div>
   </div>
 
@@ -219,32 +202,61 @@ window.Quarto = {
 </header>
 
 
-<p><strong>Context</strong></p>
-<p>The use of endectocides such as ivermectin as an additional malaria control tool is now receiving increased attention, driven by its different mode of action compared to insecticides used so far and its excellent safety record for humans. In this project, we assess the efficacy against mosquitoes of a long lasting formulation of Ivermectin injected in cattle and its fate in environment.</p>
-<p><strong>Objectives</strong></p>
-<p>Characterization of PK properties of a new long acting formulation of Ivermectin and efficacy assessment against <em>Anopheles gambiae</em> and <em>An. coluzzii</em>. Estimation of the impact on non target fauna and fate in sediment.</p>
-<p><strong>Methods</strong></p>
+<section id="context" class="level2">
+<h2 class="anchored" data-anchor-id="context"><strong>Context</strong></h2>
+<p>This project investigates the use of long-acting ivermectin formulations administered to livestock as a complementary malaria vector control strategy. It combines efficacy assessment on mosquito populations with the evaluation of environmental impact.</p>
+</section>
+<section id="objectives" class="level2">
+<h2 class="anchored" data-anchor-id="objectives"><strong>Objectives</strong></h2>
 <ul>
-<li><p>Data management, data quality control and cure</p></li>
-<li><p>Non compartmental PK model for parameters estimations : AUC, Tmax, <span class="math inline">\(t_{1/2}\)</span>…</p></li>
-<li><p>Generalized linear mixed models (binomial distribution)</p></li>
-<li><p>Survival : cox, kaplan meier.</p></li>
+<li>Characterize pharmacokinetic (PK) properties of a long-acting ivermectin formulation</li>
+<li>Assess efficacy against Anopheles gambiae and An. coluzzii</li>
+<li>Evaluate environmental fate and impact on non-target fauna</li>
 </ul>
-<p><strong>Tools</strong><br>
-- R (tidyverse, ggplot2, dplyr, glmmTMB, survival, coxme, PKNCA)</p>
-<p><strong>Key Results</strong></p>
+</section>
+<section id="my-role" class="level2">
+<h2 class="anchored" data-anchor-id="my-role"><strong>My role</strong></h2>
 <ul>
-<li><p>Long-acting ivermectin formulation tested can sustain mosquitocidal effects for &gt;6 months.</p></li>
-<li><p>Ivermectin-treated cattle can significantly reduce mosquito survival and population size</p></li>
-<li><p>Livestock-based vector control targets zoophagic and opportunistic malaria vectors</p></li>
-<li><p>There are measurable ecotoxicological risks to non-target dung fauna and soil ecosystems</p></li>
+<li>Managed and curated experimental datasets, ensuring data quality and consistency</li>
+<li>Performed pharmacokinetic analyses (non-compartmental modelling)</li>
+<li>Conducted statistical modelling of efficacy outcomes (GLMM, survival analysis)</li>
+<li>Contributed to the interpretation of results in both efficacy and ecotoxicological contexts</li>
 </ul>
-<p><strong>Impact</strong></p>
-<p>Sustained mosquitocidal activity achieved through long-acting ivermectin formulations supports durable vector control strategies while reducing the need for frequent interventions. By targeting zoophagic and opportunistic vectors via treated livestock, this approach complements human-centered measures and addresses residual transmission. The resulting decrease in mosquito survival and population density is expected to contribute to reduced malaria transmission at the community level. However, the identification of ecotoxicological risks underscores the importance of developing environmentally sustainable implementation frameworks that balance intervention efficacy with ecosystem integrity. (<span class="citation" data-cites="heinrich_ecotoxicological_2024">Heinrich et al. (<a href="#ref-heinrich_ecotoxicological_2024" role="doc-biblioref">2024</a>)</span>).</p>
+</section>
+<section id="methods-tools" class="level2">
+<h2 class="anchored" data-anchor-id="methods-tools"><strong>Methods &amp; tools</strong></h2>
+<ul>
+<li>Non-compartmental PK modelling (AUC, Tmax, half-life)</li>
+<li>Survival analysis (Kaplan–Meier, Cox models)</li>
+<li>Generalized linear mixed models (binomial outcomes)</li>
+<li>R (tidyverse, ggplot2, glmmTMB, survival, coxme, PKNCA)</li>
+</ul>
+</section>
+<section id="key-results" class="level2">
+<h2 class="anchored" data-anchor-id="key-results"><strong>Key results</strong></h2>
+<ul>
+<li>Sustained mosquitocidal efficacy observed for more than 6 months</li>
+<li>Significant reduction in mosquito survival and population size through treated livestock</li>
+<li>Effective targeting of zoophagic and opportunistic malaria vectors</li>
+<li>Identification of measurable ecotoxicological risks for non-target organisms</li>
+</ul>
+</section>
+<section id="impact" class="level2">
+<h2 class="anchored" data-anchor-id="impact"><strong>Impact</strong></h2>
+<ul>
+<li>Supports the development of long-lasting vector control strategies with reduced intervention frequency</li>
+<li>Contributes to complementary approaches targeting residual malaria transmission</li>
+<li>Informed the balance between efficacy and environmental sustainability in deployment strategies</li>
+</ul>
+</section>
+<section id="publications-and-project-link" class="level2">
+<h2 class="anchored" data-anchor-id="publications-and-project-link"><strong>Publications and project link</strong></h2>
+<p><span class="citation" data-cites="heinrich_ecotoxicological_2024">Heinrich et al. (<a href="#ref-heinrich_ecotoxicological_2024" role="doc-biblioref">2024</a>)</span></p>
 <p>Github link of the project : <a href="#0">Anivermate</a></p>
 
 
 
+</section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-heinrich_ecotoxicological_2024" class="csl-entry" role="listitem">

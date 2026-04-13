@@ -37,9 +37,58 @@
   {
     "objectID": "projects/project_anivermate.html",
     "href": "projects/project_anivermate.html",
-    "title": "ANIVERMATE",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
     "section": "",
-    "text": "Context\nThe use of endectocides such as ivermectin as an additional malaria control tool is now receiving increased attention, driven by its different mode of action compared to insecticides used so far and its excellent safety record for humans. In this project, we assess the efficacy against mosquitoes of a long lasting formulation of Ivermectin injected in cattle and its fate in environment.\nObjectives\nCharacterization of PK properties of a new long acting formulation of Ivermectin and efficacy assessment against Anopheles gambiae and An. coluzzii. Estimation of the impact on non target fauna and fate in sediment.\nMethods\n\nData management, data quality control and cure\nNon compartmental PK model for parameters estimations : AUC, Tmax, \\(t_{1/2}\\)…\nGeneralized linear mixed models (binomial distribution)\nSurvival : cox, kaplan meier.\n\nTools\n- R (tidyverse, ggplot2, dplyr, glmmTMB, survival, coxme, PKNCA)\nKey Results\n\nLong-acting ivermectin formulation tested can sustain mosquitocidal effects for &gt;6 months.\nIvermectin-treated cattle can significantly reduce mosquito survival and population size\nLivestock-based vector control targets zoophagic and opportunistic malaria vectors\nThere are measurable ecotoxicological risks to non-target dung fauna and soil ecosystems\n\nImpact\nSustained mosquitocidal activity achieved through long-acting ivermectin formulations supports durable vector control strategies while reducing the need for frequent interventions. By targeting zoophagic and opportunistic vectors via treated livestock, this approach complements human-centered measures and addresses residual transmission. The resulting decrease in mosquito survival and population density is expected to contribute to reduced malaria transmission at the community level. However, the identification of ecotoxicological risks underscores the importance of developing environmentally sustainable implementation frameworks that balance intervention efficacy with ecosystem integrity. (Heinrich et al. (2024)).\nGithub link of the project : Anivermate\n\n\n\n\nReferences\n\nHeinrich, Andre Patrick, Sié Hermann Pooda, Angélique Porciani, Lamidi Zéla, Alexandra Schinzel, Nicolas Moiroux, Christophe Roberge, et al. 2024. “An Ecotoxicological View on Malaria Vector Control with Ivermectin-Treated Cattle.” Nature Sustainability 7 (6): 724–36. https://doi.org/10.1038/s41893-024-01332-8."
+    "text": "This project investigates the use of long-acting ivermectin formulations administered to livestock as a complementary malaria vector control strategy. It combines efficacy assessment on mosquito populations with the evaluation of environmental impact."
+  },
+  {
+    "objectID": "projects/project_anivermate.html#context",
+    "href": "projects/project_anivermate.html#context",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "",
+    "text": "This project investigates the use of long-acting ivermectin formulations administered to livestock as a complementary malaria vector control strategy. It combines efficacy assessment on mosquito populations with the evaluation of environmental impact."
+  },
+  {
+    "objectID": "projects/project_anivermate.html#objectives",
+    "href": "projects/project_anivermate.html#objectives",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "Objectives",
+    "text": "Objectives\n\nCharacterize pharmacokinetic (PK) properties of a long-acting ivermectin formulation\nAssess efficacy against Anopheles gambiae and An. coluzzii\nEvaluate environmental fate and impact on non-target fauna"
+  },
+  {
+    "objectID": "projects/project_anivermate.html#my-role",
+    "href": "projects/project_anivermate.html#my-role",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "My role",
+    "text": "My role\n\nManaged and curated experimental datasets, ensuring data quality and consistency\nPerformed pharmacokinetic analyses (non-compartmental modelling)\nConducted statistical modelling of efficacy outcomes (GLMM, survival analysis)\nContributed to the interpretation of results in both efficacy and ecotoxicological contexts"
+  },
+  {
+    "objectID": "projects/project_anivermate.html#methods-tools",
+    "href": "projects/project_anivermate.html#methods-tools",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "Methods & tools",
+    "text": "Methods & tools\n\nNon-compartmental PK modelling (AUC, Tmax, half-life)\nSurvival analysis (Kaplan–Meier, Cox models)\nGeneralized linear mixed models (binomial outcomes)\nR (tidyverse, ggplot2, glmmTMB, survival, coxme, PKNCA)"
+  },
+  {
+    "objectID": "projects/project_anivermate.html#key-results",
+    "href": "projects/project_anivermate.html#key-results",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "Key results",
+    "text": "Key results\n\nSustained mosquitocidal efficacy observed for more than 6 months\nSignificant reduction in mosquito survival and population size through treated livestock\nEffective targeting of zoophagic and opportunistic malaria vectors\nIdentification of measurable ecotoxicological risks for non-target organisms"
+  },
+  {
+    "objectID": "projects/project_anivermate.html#impact",
+    "href": "projects/project_anivermate.html#impact",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "Impact",
+    "text": "Impact\n\nSupports the development of long-lasting vector control strategies with reduced intervention frequency\nContributes to complementary approaches targeting residual malaria transmission\nInformed the balance between efficacy and environmental sustainability in deployment strategies"
+  },
+  {
+    "objectID": "projects/project_anivermate.html#publications-and-project-link",
+    "href": "projects/project_anivermate.html#publications-and-project-link",
+    "title": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact",
+    "section": "Publications and project link",
+    "text": "Publications and project link\nHeinrich et al. (2024)\nGithub link of the project : Anivermate"
   },
   {
     "objectID": "projects/project_anorythm.html",
@@ -130,14 +179,14 @@
     "href": "projects/project_movLarv.html",
     "title": "Mosquito behavioural analysis under insecticide exposure",
     "section": "",
-    "text": "Environmental exposure to low concentrations of insecticides is increasingly common, particularly in mosquito breeding sites. While these concentrations may not be lethal, they can induce sub-lethal effects on behaviour and life-history traits, potentially impacting malaria transmission dynamics."
+    "text": "Environmental exposure to low concentrations of insecticides is increasingly common, particularly in mosquito breeding sites. While these concentrations may not be lethal, they can induce sub-lethal effects on behaviour and life-history traits, potentially impacting malaria transmission dynamics.\nThis project combines experimental design, data processing, and advanced modelling of behavioural time-series data."
   },
   {
     "objectID": "projects/project_movLarv.html#context",
     "href": "projects/project_movLarv.html#context",
     "title": "Mosquito behavioural analysis under insecticide exposure",
     "section": "",
-    "text": "Environmental exposure to low concentrations of insecticides is increasingly common, particularly in mosquito breeding sites. While these concentrations may not be lethal, they can induce sub-lethal effects on behaviour and life-history traits, potentially impacting malaria transmission dynamics."
+    "text": "Environmental exposure to low concentrations of insecticides is increasingly common, particularly in mosquito breeding sites. While these concentrations may not be lethal, they can induce sub-lethal effects on behaviour and life-history traits, potentially impacting malaria transmission dynamics.\nThis project combines experimental design, data processing, and advanced modelling of behavioural time-series data."
   },
   {
     "objectID": "projects/project_movLarv.html#objectives",
@@ -193,7 +242,7 @@
     "href": "project2.html",
     "title": "Projects",
     "section": "",
-    "text": "ANIVERMATE\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticides evaluation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nMosquito behavioural analysis under insecticide exposure\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticides evaluation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nMosquito behavioural analysis under insecticide exposure\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
