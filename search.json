@@ -212,16 +212,51 @@
   {
     "objectID": "projects/project_insecticides.html",
     "href": "projects/project_insecticides.html",
-    "title": "Insecticides evaluation",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
     "section": "",
-    "text": "Context\nTest of new type of insecticides on mosquitoes mortality\nObjectives\n- Choose of lethal dose (LD) 50 and 90 for different mosquitoes strains (different mutation conferring partial resistance to insecticides)\nMethods\n\nDose response\nSurvival model : Kaplan meier curves and cox\nGeneralized linear models\n\nTools\n- R (tidyverse, ggplot2, dplyr, glmmTMB, DHARMa, coxme, survival, drm, BioRssay)\nKey Results\n- Identification of efficient dose for 2 news type of insecticides.\nImpact\nSupport for development of news control vector tools by a private company."
+    "text": "This project focused on evaluating the efficacy of new insecticide compounds on mosquito mortality, with the objective of supporting the development of novel vector control solutions."
   },
   {
-    "objectID": "projects/project_insecticides.html#insecticides-evaluation",
-    "href": "projects/project_insecticides.html#insecticides-evaluation",
-    "title": "Insecticides evaluation",
+    "objectID": "projects/project_insecticides.html#context",
+    "href": "projects/project_insecticides.html#context",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
     "section": "",
-    "text": "Context\nTest of new type of insecticides on mosquitoes mortality\nObjectives\n- Choose of lethal dose (LD) 50 and 90 for different mosquitoes strains (different mutation conferring partial resistance to insecticides)\nMethods\n\nDose response\nSurvival model : Kaplan meier curves and cox\nGeneralized linear models\n\nTools\n- R (tidyverse, ggplot2, dplyr, glmmTMB, DHARMa, coxme, survival, drm, BioRssay)\nKey Results\n- Identification of efficient dose for 2 news type of insecticides.\nImpact\nSupport for development of news control vector tools by a private company."
+    "text": "This project focused on evaluating the efficacy of new insecticide compounds on mosquito mortality, with the objective of supporting the development of novel vector control solutions."
+  },
+  {
+    "objectID": "projects/project_insecticides.html#objectives",
+    "href": "projects/project_insecticides.html#objectives",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
+    "section": "Objectives",
+    "text": "Objectives\n\nEstimate lethal doses (LD50, LD90) across different mosquito strains\nCompare efficacy across strains with varying resistance profiles"
+  },
+  {
+    "objectID": "projects/project_insecticides.html#my-role",
+    "href": "projects/project_insecticides.html#my-role",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
+    "section": "My role",
+    "text": "My role\n\nManaged and analysed experimental datasets on mosquito mortality\nPerformed dose-response modelling to estimate lethal doses (LD50, LD90)\nConducted survival analyses (Kaplan–Meier, Cox models) to assess treatment effects\nApplied statistical models (GLM) to compare efficacy across mosquito strains\nInterpreted results to support compound evaluation and selection"
+  },
+  {
+    "objectID": "projects/project_insecticides.html#methods-tools",
+    "href": "projects/project_insecticides.html#methods-tools",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
+    "section": "Methods & tools",
+    "text": "Methods & tools\n\nDose-response modelling\nSurvival analysis (Kaplan–Meier, Cox models)\nGeneralized linear models (GLM)\nR (tidyverse, ggplot2, glmmTMB, survival, drm, DHARMa)"
+  },
+  {
+    "objectID": "projects/project_insecticides.html#key-results",
+    "href": "projects/project_insecticides.html#key-results",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
+    "section": "Key Results",
+    "text": "Key Results\n\nIdentification of effective dose ranges for two new insecticide compounds\nEvidence of differential efficacy across mosquito strains with resistance profiles"
+  },
+  {
+    "objectID": "projects/project_insecticides.html#impact",
+    "href": "projects/project_insecticides.html#impact",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
+    "section": "Impact",
+    "text": "Impact\n\nSupported decision-making in the development of new vector control tools\nContributed to the selection and optimisation of candidate insecticides for further development\nProvided quantitative evidence to guide industrial R&D strategies"
   },
   {
     "objectID": "projects/project_movLarv.html",
@@ -277,21 +312,21 @@
     "href": "projects/groupe_biostat.html",
     "title": "RADO",
     "section": "",
-    "text": "Ce projet est un projet un peu particulier car il n’est pas question que de données mais des humains qui travaillent avec. C’est donc la création d’un groupe d’animation autour des biostatistiques et de la data au sein de deux unités de recherche de l’IRD. C’est un projet est né d’un du constat que les personnes travaillant sur les données sur le centre IRD de Montpellier ne se connaissaient pas et que l’on aurait tous à y gagner de changer ça. J’ai donc pris l’initiative avec un collègue d’une autre unité de lancer le groupe Biostat en 2022. Au bout d’un an, le groupe s’est agrandit et a fusionné avec un autre groupe plus centré sur la bio-informatique et cela a conduit à la création du RADO que j’ai également co-animé jusqu’à mon départ. L’animation de ce groupe a été une joie pour moi et m’a permis de monter en compétences, mais surtout des moments de partage de connaissances et de sympathie.\nCe réseau est toujours actif et s’agrandit grace au travail des animateurs et animatrices. Jetez y un oeil ici =&gt; RADO"
+    "text": "Ce projet est un peu à part, car il ne parle pas seulement de données, mais surtout des personnes qui travaillent avec. Il est né d’un constat simple : au centre IRD de Montpellier, beaucoup de gens manipulaient des données… sans vraiment se connaître. Et on s’est dit qu’il y avait clairement quelque chose à construire là-dessus.\nAvec un collègue d’une autre unité, on a donc lancé en 2022 un groupe d’animation autour des biostatistiques : le groupe Biostat. L’idée était de créer un espace d’échange, de partage de pratiques, et tout simplement de mettre en lien les personnes.\nAu fil du temps, le groupe a grandi, les échanges se sont enrichis, et on a fini par fusionner avec un autre collectif plus orienté bioinformatique. De là est né le RADO, que j’ai co-animé jusqu’à mon départ.\nAnimer ce réseau a été une expérience vraiment précieuse pour moi. Ça m’a permis de développer de nouvelles compétences, mais surtout de vivre de très bons moments de partage, de collaboration et de convivialité.\nEt le plus chouette, c’est que le réseau continue de vivre et de s’agrandir grâce à l’énergie des personnes qui l’animent aujourd’hui.\nJetez-y un œil ici : RADO"
   },
   {
     "objectID": "projects/groupe_biostat.html#groupe-danimation-autour-de-la-data-et-des-biostat",
     "href": "projects/groupe_biostat.html#groupe-danimation-autour-de-la-data-et-des-biostat",
     "title": "RADO",
     "section": "",
-    "text": "Ce projet est un projet un peu particulier car il n’est pas question que de données mais des humains qui travaillent avec. C’est donc la création d’un groupe d’animation autour des biostatistiques et de la data au sein de deux unités de recherche de l’IRD. C’est un projet est né d’un du constat que les personnes travaillant sur les données sur le centre IRD de Montpellier ne se connaissaient pas et que l’on aurait tous à y gagner de changer ça. J’ai donc pris l’initiative avec un collègue d’une autre unité de lancer le groupe Biostat en 2022. Au bout d’un an, le groupe s’est agrandit et a fusionné avec un autre groupe plus centré sur la bio-informatique et cela a conduit à la création du RADO que j’ai également co-animé jusqu’à mon départ. L’animation de ce groupe a été une joie pour moi et m’a permis de monter en compétences, mais surtout des moments de partage de connaissances et de sympathie.\nCe réseau est toujours actif et s’agrandit grace au travail des animateurs et animatrices. Jetez y un oeil ici =&gt; RADO"
+    "text": "Ce projet est un peu à part, car il ne parle pas seulement de données, mais surtout des personnes qui travaillent avec. Il est né d’un constat simple : au centre IRD de Montpellier, beaucoup de gens manipulaient des données… sans vraiment se connaître. Et on s’est dit qu’il y avait clairement quelque chose à construire là-dessus.\nAvec un collègue d’une autre unité, on a donc lancé en 2022 un groupe d’animation autour des biostatistiques : le groupe Biostat. L’idée était de créer un espace d’échange, de partage de pratiques, et tout simplement de mettre en lien les personnes.\nAu fil du temps, le groupe a grandi, les échanges se sont enrichis, et on a fini par fusionner avec un autre collectif plus orienté bioinformatique. De là est né le RADO, que j’ai co-animé jusqu’à mon départ.\nAnimer ce réseau a été une expérience vraiment précieuse pour moi. Ça m’a permis de développer de nouvelles compétences, mais surtout de vivre de très bons moments de partage, de collaboration et de convivialité.\nEt le plus chouette, c’est que le réseau continue de vivre et de s’agrandir grâce à l’énergie des personnes qui l’animent aujourd’hui.\nJetez-y un œil ici : RADO"
   },
   {
     "objectID": "project2.html",
     "href": "project2.html",
     "title": "Projects",
     "section": "",
-    "text": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticides evaluation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nMosquito behavioural analysis under insecticide exposure\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticide efficacy evaluation and dose optimisation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nMosquito behavioural analysis under insecticide exposure\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
