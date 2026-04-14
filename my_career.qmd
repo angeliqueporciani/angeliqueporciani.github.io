@@ -4,44 +4,62 @@ format: html
 css: styles.css
 ---
 
+This page provides an overview of my professional journey and how my work has progressively evolved around data, from experiments to increasingly data-driven, applied and collaborative projects.
+
+Over the years, I have worked on a wide range of topics in epidemiology, vector biology, public health, and intervention evaluation, with a common thread: using data analysis to better understand complex systems and support informed decisions.
+
+Through these experiences, I have developed strong skills in statistical modelling, study design, data management and the analysis of longitudinal and time-dependent data, often in interdisciplinary and international environments.
+
+My more recent projects have involved growing collaboration with external and industrial partners, where analytical results contribute directly to project orientation, innovation and strategic choices.
+
 ::: {.timeline}
 
 ::: {.timeline-item}
 **01/2024–12/2025**  
 
 #### Biostatistician (Researcher) — IRD  
-Montpellier
+Montpellier  
 
-*Biostatistics-Behavioural ecology of mosquitoes*
+*Biostatistics – Behavioural data analysis and machine learning*
 
-- Study design and project management with team members  
-- Video analysis and parameters extractions, data management and curation 
-- Multivariate analysis
-- Machine learning : SVM for unsupervised analysis and HMM for deep characterization of larvae movement. 
-- DMP, scientific paper redaction
-- Impact: improve knowledge about sublethal effect of insecticides on mosquitoes larvae movement and life history trait.  
+- Designed studies and coordinated project activities with multidisciplinary team members  
+- Managed and structured complex behavioural datasets derived from video recordings, including curation and storage  
+- Developed data processing workflows for feature extraction and behavioural metrics generation  
+- Performed statistical analyses including multivariate methods and data visualization  
+- Applied machine learning approaches (SVM) and Hidden Markov Models (HMM) to classify and characterize larvae movement patterns  
+- Built reproducible analysis pipelines in R for data processing and reporting  
+- Contributed to scientific writing and dissemination of results  
+
+**Impact:**  
+- Generated new insights into the sublethal effects of insecticides on mosquito larvae behaviour and life-history traits  
+- Improved the quantitative characterization of behavioural responses using data-driven approaches  
+
 🔗 [Project: Mosquito larvae movement](./project_movLarv.qmd)
 :::
 
 ::: {.timeline-item}
 **05/2021–12/2023**  
+ 
+#### Biostatistician (Researcher) — IRD  
+Montpellier  
 
-#### Biostatistician (Researcher) — IRD 
+*Biostatistics – Pre-clinical efficacy assessment*
 
-Montpellier
+- Designed studies and developed Statistical Analysis Plans (SAP), including sample size estimation  
+- Managed and curated complex experimental datasets, ensuring data quality and consistency  
+- Performed data analysis using survival models, GLMM, PK/PD modelling and epidemiological modelling (SEIR)  
+- Developed data visualizations and statistical reports for diverse stakeholders  
+- Translated analytical results into actionable insights to support project decisions and go/no-go strategies  
+- Collaborated with multidisciplinary and international teams, including industrial partners  
+- Communicated results through consortium meetings and international conferences  
+- Supervised students and trained collaborators in statistical analysis and data handling  
 
-*Biostatistics - Pre-clinical efficacy assessment*
+**Impact:**  
+- Contributed to the identification of optimal dose and long-acting formulation  
+- Supported strategies aimed at reducing malaria transmission through data-driven decision-making  
 
-- Study design, SAP redaction, sample size estimation 
-- Statistics : Survival analysis, GLMM, PK/PD, Mathematical modeling (SEIR)
-- Results : general and statistics reporting, scientific paper co-writing.  
-- Communications : consortium, international conference
-- Supervision of students and formation of consortium members
-- Creation of a group around biostatistics and Bioinformatics 
-- Impact: Choice of dose and long acting formulation that have a significant impact in reducing malaria transmission. 
-
-🔗 [Project: IMPACT](./project_IMPACT.qmd)
-🔗 [Project: Anivermate](./project_anivermate.qmd)
+🔗 [Project: IMPACT](./project_IMPACT.qmd)  
+🔗 [Project: Anivermate](./project_anivermate.qmd)  
 🔗 [Project: RADO](./groupe_biostat.qmd)
 
 :::
@@ -55,7 +73,9 @@ Montpellier
 
 *Biostatistics - Vector ecology*
 
-- Statistics : rhythm parameters estimation (chisq and FFT periodogramm, onset time, time of maximum activity), GLMM with zero inflation, Hidden Markov Model (HMM)
+- Data analysis : rhythm parameters estimation (chisq and FFT periodogramm, onset time, time of maximum activity), GLMM with zero inflation, Hidden Markov Model (HMM)
+- Data management and visualisation
+- Data driven analysis 
 - Results : scientific paper co-writing.  
 - Supervision of students (Msc and PhD students)
 - Impact: This project advanced our understanding of how *Anopheles coluzzii* activity rhythms respond to both external and internal variability.
@@ -70,13 +90,13 @@ Montpellier
 
 Montpellier
 
-*Biostatistics - Machine Learning - R*
+*Biostatistics - Data analysis - Machine Learning - R*
 
-- Programation : R - SAS - SQL 
+- Programming : R - SAS - SQL 
+- Data management : SQL databases
 - Omics : ML, high dimension reduction, variable selection, genetic algorithm
 - Spatial and temporal statistics 
 - GLMM, censored data, multi-states models 
-- Bayesian model
 
 Internship : [Project: Anorythm](./project_anorythm.qmd)
 :::
@@ -91,7 +111,7 @@ Montpellier
 
 *Biostatistics - Experimentations - Insecticides and repellent*
 
-- Statistics : R, GLMM, survival analysis (KM and mixed cox model)
+- Data analysis : R, GLMM, survival analysis (KM and mixed cox model)
 - Experiments : Bioassay test with insecticides (OMS), behavioral experiment with mosquitoes, 
 electrophysiology (EAG and SSR). GC/MS use. 
 ::: 

@@ -207,7 +207,7 @@
     "href": "my_career.html",
     "title": "Experience",
     "section": "",
-    "text": "01/2024–12/2025\n\nBiostatistician (Researcher) — IRD\nMontpellier\nBiostatistics-Behavioural ecology of mosquitoes\n\nStudy design and project management with team members\n\nVideo analysis and parameters extractions, data management and curation\nMultivariate analysis\nMachine learning : SVM for unsupervised analysis and HMM for deep characterization of larvae movement.\nDMP, scientific paper redaction\nImpact: improve knowledge about sublethal effect of insecticides on mosquitoes larvae movement and life history trait.\n🔗 Project: Mosquito larvae movement\n\n\n\n\n05/2021–12/2023\n\nBiostatistician (Researcher) — IRD\nMontpellier\nBiostatistics - Pre-clinical efficacy assessment\n\nStudy design, SAP redaction, sample size estimation\nStatistics : Survival analysis, GLMM, PK/PD, Mathematical modeling (SEIR)\nResults : general and statistics reporting, scientific paper co-writing.\n\nCommunications : consortium, international conference\nSupervision of students and formation of consortium members\nCreation of a group around biostatistics and Bioinformatics\nImpact: Choice of dose and long acting formulation that have a significant impact in reducing malaria transmission.\n\n🔗 Project: IMPACT 🔗 Project: Anivermate 🔗 Project: RADO\n\n\n\n06/2020–12/2020\n\nBiostatistician (Researcher) — IRD\nMontpellier\nBiostatistics - Vector ecology\n\nStatistics : rhythm parameters estimation (chisq and FFT periodogramm, onset time, time of maximum activity), GLMM with zero inflation, Hidden Markov Model (HMM)\nResults : scientific paper co-writing.\n\nSupervision of students (Msc and PhD students)\nImpact: This project advanced our understanding of how Anopheles coluzzii activity rhythms respond to both external and internal variability.\n\n🔗 Project: Anorythm\n\n\n\n09/2018–08/2019\n\nMsc Biostatistics — Montpellier University\nMontpellier\nBiostatistics - Machine Learning - R\n\nProgramation : R - SAS - SQL\nOmics : ML, high dimension reduction, variable selection, genetic algorithm\nSpatial and temporal statistics\nGLMM, censored data, multi-states models\nBayesian model\n\nInternship : Project: Anorythm\n\n\n\n04/2017–02/2020\n\nEngeneer - IRD\nMontpellier\nBiostatistics - Experimentations - Insecticides and repellent\n\nStatistics : R, GLMM, survival analysis (KM and mixed cox model)\nExperiments : Bioassay test with insecticides (OMS), behavioral experiment with mosquitoes, electrophysiology (EAG and SSR). GC/MS use.\n\n\n\n\n11/2016–12/2016\n\nTechnician - IRD\nMontpellier\nMosquitoes mass rearing\n\n\n\n10/2012–12/2015\n\nPhD - IRD\nCotonou/Montpellier\nBehavioural ecology\nBehaviour and olfaction of Anopheles gambiae : Interaction entre mecanisme de résistance et insecticide.\n\nStatistics : R, GLMM, survival analysis (KM and mixed cox model)\nExperiments : Olfactometry, behavioral experiment with mosquitoes, electrophysiology (EAG and SSR). GC/MS use.\n\n Thesis\n\n\n\n09/2010–08/2012\n\nMsC degree in Epidemiology - University of Montpellier\nLa Reunion Island/Montpellier\nAnimal Health and Epidemiology in Southern countries\n\nEpidemiology\nStatistics : R, GLMM, survival analysis (KM and mixed cox model)\nInternship : Risk assessment of the introduction of Varroa destructor in La Réunion Island. Creation of database of beekeepers of the Island, survey redaction and application about beekeeping practices. Reporting to expert and beekeepers."
+    "text": "This page provides an overview of my professional journey and how my work has progressively evolved around data, from experiments to increasingly data-driven, applied and collaborative projects.\nOver the years, I have worked on a wide range of topics in epidemiology, vector biology, public health, and intervention evaluation, with a common thread: using data analysis to better understand complex systems and support informed decisions.\nThrough these experiences, I have developed strong skills in statistical modelling, study design, data management and the analysis of longitudinal and time-dependent data, often in interdisciplinary and international environments.\nMy more recent projects have involved growing collaboration with external and industrial partners, where analytical results contribute directly to project orientation, innovation and strategic choices.\n\n\n01/2024–12/2025\n\nBiostatistician (Researcher) — IRD\nMontpellier\nBiostatistics – Behavioural data analysis and machine learning\n\nDesigned studies and coordinated project activities with multidisciplinary team members\n\nManaged and structured complex behavioural datasets derived from video recordings, including curation and storage\n\nDeveloped data processing workflows for feature extraction and behavioural metrics generation\n\nPerformed statistical analyses including multivariate methods and data visualization\n\nApplied machine learning approaches (SVM) and Hidden Markov Models (HMM) to classify and characterize larvae movement patterns\n\nBuilt reproducible analysis pipelines in R for data processing and reporting\n\nContributed to scientific writing and dissemination of results\n\nImpact:\n- Generated new insights into the sublethal effects of insecticides on mosquito larvae behaviour and life-history traits\n- Improved the quantitative characterization of behavioural responses using data-driven approaches\n🔗 Project: Mosquito larvae movement\n\n\n\n05/2021–12/2023\n\nBiostatistician (Researcher) — IRD\nMontpellier\nBiostatistics – Pre-clinical efficacy assessment\n\nDesigned studies and developed Statistical Analysis Plans (SAP), including sample size estimation\n\nManaged and curated complex experimental datasets, ensuring data quality and consistency\n\nPerformed data analysis using survival models, GLMM, PK/PD modelling and epidemiological modelling (SEIR)\n\nDeveloped data visualizations and statistical reports for diverse stakeholders\n\nTranslated analytical results into actionable insights to support project decisions and go/no-go strategies\n\nCollaborated with multidisciplinary and international teams, including industrial partners\n\nCommunicated results through consortium meetings and international conferences\n\nSupervised students and trained collaborators in statistical analysis and data handling\n\nImpact:\n- Contributed to the identification of optimal dose and long-acting formulation\n- Supported strategies aimed at reducing malaria transmission through data-driven decision-making\n🔗 Project: IMPACT\n🔗 Project: Anivermate\n🔗 Project: RADO\n\n\n\n06/2020–12/2020\n\nBiostatistician (Researcher) — IRD\nMontpellier\nBiostatistics - Vector ecology\n\nData analysis : rhythm parameters estimation (chisq and FFT periodogramm, onset time, time of maximum activity), GLMM with zero inflation, Hidden Markov Model (HMM)\nData management and visualisation\nData driven analysis\nResults : scientific paper co-writing.\n\nSupervision of students (Msc and PhD students)\nImpact: This project advanced our understanding of how Anopheles coluzzii activity rhythms respond to both external and internal variability.\n\n🔗 Project: Anorythm\n\n\n\n09/2018–08/2019\n\nMsc Biostatistics — Montpellier University\nMontpellier\nBiostatistics - Data analysis - Machine Learning - R\n\nProgramming : R - SAS - SQL\nData management : SQL databases\nOmics : ML, high dimension reduction, variable selection, genetic algorithm\nSpatial and temporal statistics\nGLMM, censored data, multi-states models\n\nInternship : Project: Anorythm\n\n\n\n04/2017–02/2020\n\nEngeneer - IRD\nMontpellier\nBiostatistics - Experimentations - Insecticides and repellent\n\nData analysis : R, GLMM, survival analysis (KM and mixed cox model)\nExperiments : Bioassay test with insecticides (OMS), behavioral experiment with mosquitoes, electrophysiology (EAG and SSR). GC/MS use.\n\n\n\n\n11/2016–12/2016\n\nTechnician - IRD\nMontpellier\nMosquitoes mass rearing\n\n\n\n10/2012–12/2015\n\nPhD - IRD\nCotonou/Montpellier\nBehavioural ecology\nBehaviour and olfaction of Anopheles gambiae : Interaction entre mecanisme de résistance et insecticide.\n\nStatistics : R, GLMM, survival analysis (KM and mixed cox model)\nExperiments : Olfactometry, behavioral experiment with mosquitoes, electrophysiology (EAG and SSR). GC/MS use.\n\n Thesis\n\n\n\n09/2010–08/2012\n\nMsC degree in Epidemiology - University of Montpellier\nLa Reunion Island/Montpellier\nAnimal Health and Epidemiology in Southern countries\n\nEpidemiology\nStatistics : R, GLMM, survival analysis (KM and mixed cox model)\nInternship : Risk assessment of the introduction of Varroa destructor in La Réunion Island. Creation of database of beekeepers of the Island, survey redaction and application about beekeeping practices. Reporting to expert and beekeepers."
   },
   {
     "objectID": "projects/project_insecticides.html",
@@ -217,11 +217,46 @@
     "text": "This project focused on evaluating the efficacy of new insecticide compounds on mosquito mortality, with the objective of supporting the development of novel vector control solutions."
   },
   {
-    "objectID": "projects/project_insecticides.html#insecticides-evaluation",
-    "href": "projects/project_insecticides.html#insecticides-evaluation",
-    "title": "Insecticides evaluation",
+    "objectID": "projects/project_insecticides.html#context",
+    "href": "projects/project_insecticides.html#context",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
     "section": "",
-    "text": "Context\nTest of new type of insecticides on mosquitoes mortality\nObjectives\n- Choose of lethal dose (LD) 50 and 90 for different mosquitoes strains (different mutation conferring partial resistance to insecticides)\nMethods\n\nDose response\nSurvival model : Kaplan meier curves and cox\nGeneralized linear models\n\nTools\n- R (tidyverse, ggplot2, dplyr, glmmTMB, DHARMa, coxme, survival, drm, BioRssay)\nKey Results\n- Identification of efficient dose for 2 news type of insecticides.\nImpact\nSupport for development of news control vector tools by a private company."
+    "text": "This project focused on evaluating the efficacy of new insecticide compounds on mosquito mortality, with the objective of supporting the development of novel vector control solutions."
+  },
+  {
+    "objectID": "projects/project_insecticides.html#objectives",
+    "href": "projects/project_insecticides.html#objectives",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
+    "section": "Objectives",
+    "text": "Objectives\n\nEstimate lethal doses (LD50, LD90) across different mosquito strains\nCompare efficacy across strains with varying resistance profiles"
+  },
+  {
+    "objectID": "projects/project_insecticides.html#my-role",
+    "href": "projects/project_insecticides.html#my-role",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
+    "section": "My role",
+    "text": "My role\n\nManaged and analysed experimental datasets on mosquito mortality\nPerformed dose-response modelling to estimate lethal doses (LD50, LD90)\nConducted survival analyses (Kaplan–Meier, Cox models) to assess treatment effects\nApplied statistical models (GLM) to compare efficacy across mosquito strains\nInterpreted results to support compound evaluation and selection"
+  },
+  {
+    "objectID": "projects/project_insecticides.html#methods-tools",
+    "href": "projects/project_insecticides.html#methods-tools",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
+    "section": "Methods & tools",
+    "text": "Methods & tools\n\nDose-response modelling\nSurvival analysis (Kaplan–Meier, Cox models)\nGeneralized linear models (GLM)\nR (tidyverse, ggplot2, glmmTMB, survival, drm, DHARMa)"
+  },
+  {
+    "objectID": "projects/project_insecticides.html#key-results",
+    "href": "projects/project_insecticides.html#key-results",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
+    "section": "Key Results",
+    "text": "Key Results\n\nIdentification of effective dose ranges for two new insecticide compounds\nEvidence of differential efficacy across mosquito strains with resistance profiles"
+  },
+  {
+    "objectID": "projects/project_insecticides.html#impact",
+    "href": "projects/project_insecticides.html#impact",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
+    "section": "Impact",
+    "text": "Impact\n\nSupported decision-making in the development of new vector control tools\nContributed to the selection and optimisation of candidate insecticides for further development\nProvided quantitative evidence to guide industrial R&D strategies"
   },
   {
     "objectID": "projects/project_movLarv.html",
@@ -313,47 +348,5 @@
     "title": "Angélique Porciani",
     "section": "",
     "text": "I enjoy working at the interplay of data, biology and real-world questions.\n\nContact\n📧 angelique.porciani@gmail.com\nGitHub\nLinkedIn\n\n\nHello! I’m Angélique Porciani, a biostatistician and data analyst with over 12 years of experience working with complex data in life sciences.\nOver the years, I’ve developed strong expertise in statistical modelling and data analysis with R, applied to a wide range of projects in epidemiology, health, and environmental sciences.\nI particularly enjoy working with complex, time-dependent data, such as time series and longitudinal datasets, using statistical and machine learning approaches to explore patterns and support data-driven decisions. I also have experience with survival and dose-response models in the context of evaluating treatment efficacy.\nMore broadly, I’m interested in leveraging data to better understand complex systems and inform decision-making, whether in research or applied contexts. I’m especially motivated by projects where data can bring clarity to real-world challenges.\nBeyond the technical side, I’ve coordinated projects, collaborated with diverse stakeholders, and communicated results to both technical and non-technical audiences. I enjoy working in interdisciplinary environments and value collaboration and knowledge sharing.\nI’m currently seeking opportunities as a data analyst where I can apply my analytical skills to real-world data and contribute to impactful, data-driven projects.\n\n\n\n\n\n\n🛠 Skills\nLanguages & Tools: R (tidyverse, dplyr, ggplot2), SAS, SQL, Excel, Latex, Quarto, Python, bash, Notion\nStatistical Methods: descriptive statistics, regression linear or not, survival & dose-response modelling\nMachine Learning: variable selection, clustering, predictive modelling\nData Visualization & Reporting: dynamics html report (Quarto), KPI creation, summary tables, clear visual communication\nSoft Skills: collaboration, teaching, project coordination, interdisciplinary teamwork\n\n\n\nCurrent Focus\n\nCleaning, transforming, and exploring complex datasets for actionable insights\nCreating clear visualizations, dashboards, and indicators for decision-making\nApplying statistical modelling & machine learning to real-world biological data\nTime-dependent data: time series, longitudinal datasets\nSurvival & dose-response analyses to evaluate new molecules or interventions"
-  },
-  {
-    "objectID": "projects/project_insecticides.html#context",
-    "href": "projects/project_insecticides.html#context",
-    "title": "Insecticide efficacy evaluation and dose optimisation",
-    "section": "",
-    "text": "This project focused on evaluating the efficacy of new insecticide compounds on mosquito mortality, with the objective of supporting the development of novel vector control solutions."
-  },
-  {
-    "objectID": "projects/project_insecticides.html#objectives",
-    "href": "projects/project_insecticides.html#objectives",
-    "title": "Insecticide efficacy evaluation and dose optimisation",
-    "section": "Objectives",
-    "text": "Objectives\n\nEstimate lethal doses (LD50, LD90) across different mosquito strains\nCompare efficacy across strains with varying resistance profiles"
-  },
-  {
-    "objectID": "projects/project_insecticides.html#my-role",
-    "href": "projects/project_insecticides.html#my-role",
-    "title": "Insecticide efficacy evaluation and dose optimisation",
-    "section": "My role",
-    "text": "My role\n\nManaged and analysed experimental datasets on mosquito mortality\nPerformed dose-response modelling to estimate lethal doses (LD50, LD90)\nConducted survival analyses (Kaplan–Meier, Cox models) to assess treatment effects\nApplied statistical models (GLM) to compare efficacy across mosquito strains\nInterpreted results to support compound evaluation and selection"
-  },
-  {
-    "objectID": "projects/project_insecticides.html#methods-tools",
-    "href": "projects/project_insecticides.html#methods-tools",
-    "title": "Insecticide efficacy evaluation and dose optimisation",
-    "section": "Methods & tools",
-    "text": "Methods & tools\n\nDose-response modelling\nSurvival analysis (Kaplan–Meier, Cox models)\nGeneralized linear models (GLM)\nR (tidyverse, ggplot2, glmmTMB, survival, drm, DHARMa)"
-  },
-  {
-    "objectID": "projects/project_insecticides.html#key-results",
-    "href": "projects/project_insecticides.html#key-results",
-    "title": "Insecticide efficacy evaluation and dose optimisation",
-    "section": "Key Results",
-    "text": "Key Results\n\nIdentification of effective dose ranges for two new insecticide compounds\nEvidence of differential efficacy across mosquito strains with resistance profiles"
-  },
-  {
-    "objectID": "projects/project_insecticides.html#impact",
-    "href": "projects/project_insecticides.html#impact",
-    "title": "Insecticide efficacy evaluation and dose optimisation",
-    "section": "Impact",
-    "text": "Impact\n\nSupported decision-making in the development of new vector control tools\nContributed to the selection and optimisation of candidate insecticides for further development\nProvided quantitative evidence to guide industrial R&D strategies"
   }
 ]
