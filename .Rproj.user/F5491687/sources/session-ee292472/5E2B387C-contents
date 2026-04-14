@@ -3,7 +3,7 @@ title: "IMPACT – Evaluation of long-acting ivermectin formulations for malaria
 image: ../content/img/STORM_pic.png
 bibliography: ../content/publications.bib
 description: "Efficacy assessment of new formulation of Ivermectin : pre-clinical phase."
-categories: [Epidemiology, PK/PD, Survival, GLMM, Malaria]
+categories: [Data analysis, Biostatistics, Survival analysis, PK/PD modelling, Clinical research, Decision-Making]
 ---
 
 ## **Context**
@@ -23,17 +23,11 @@ This project aimed to evaluate new long-acting injectable formulations of iverme
 ## **My role** 
 
 - Designed study protocols, including sample size estimation and power calculations
-
 - Developed and implemented the statistical analysis plan
-
 - Performed data management, cleaning, and quality control
-
 - Conducted statistical analyses (survival models, GLMM, GAM, PK/PD, dose-response; epidemiological model)
-
 - Supervised students and supported partners in data analysis and interpretation
-
 - Communicated results to diverse stakeholders (scientific and non-scientific audiences)
-
 
 ## **Methods and tools**  
 

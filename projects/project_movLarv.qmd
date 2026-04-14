@@ -2,7 +2,7 @@
 title: "Mosquito behavioural analysis under insecticide exposure"
 image: ../content/img/IMG_3052.jpg
 description: "Studies of rythm modification of *Anopheles gambiae* in response to insecticides and urbanisation"
-categories: [Behavioral ecology, Time series analysis, GLMM, ML, Vector]
+categories: [Data analysis, Behavioral data, Time series, Statistical modelling, Data processing, Machine learning]
 ---
 
 ## **Context**  
@@ -20,15 +20,10 @@ This project combines experimental design, data processing, and advanced modelli
 ## **My role** 
 
 - Designed experimental protocols, including dose selection and sample size considerations
-
 - Developed data collection and management workflows (FAIR principles)
-
 - Processed and structured video-derived behavioural data
-
 - Implemented statistical analyses and modelling approaches (univariate, multivariate, HMM)
-
 - Developed custom functions in R to automate feature extraction (e.g. activity patterns, timing metrics)
-
 
 ## **Methods & tools**  
 

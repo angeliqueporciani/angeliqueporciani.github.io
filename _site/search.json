@@ -98,6 +98,55 @@
     "text": "“Right time define a good vector”. Mosquito activity rhythms play a key role in malaria transmission. This project investigates how biological factors (e.g. insemination status) and environmental conditions (e.g. light exposure) influence the activity patterns of Anopheles coluzzii."
   },
   {
+    "objectID": "projects/project_anorythm.html#context",
+    "href": "projects/project_anorythm.html#context",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "section": "",
+    "text": "“Right time define a good vector”. Mosquito activity rhythms play a key role in malaria transmission. This project investigates how biological factors (e.g. insemination status) and environmental conditions (e.g. light exposure) influence the activity patterns of Anopheles coluzzii."
+  },
+  {
+    "objectID": "projects/project_anorythm.html#objectives",
+    "href": "projects/project_anorythm.html#objectives",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "section": "Objectives",
+    "text": "Objectives\n\nEstimate key parameters characterizing activity rhythms (period, onset time, peak activity)\nCompare behavioural patterns across experimental groups\nDevelop a data-driven framework to model activity states and intensity over time"
+  },
+  {
+    "objectID": "projects/project_anorythm.html#my-role",
+    "href": "projects/project_anorythm.html#my-role",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "section": "My role",
+    "text": "My role\n\nManaged and processed behavioural time-series datasets\nDeveloped automated pipelines for extracting rhythm-related metrics (e.g. onset time, peak activity)\nPerformed statistical modelling (GLMM, zero-inflation models)\nImplemented Hidden Markov Models (HMM) to classify activity states and estimate transition probabilities\nAnalysed and interpreted behavioural patterns across biological and environmental conditions\nSupervision of master and PhD students"
+  },
+  {
+    "objectID": "projects/project_anorythm.html#methods-tools",
+    "href": "projects/project_anorythm.html#methods-tools",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "section": "Methods & tools",
+    "text": "Methods & tools\n\nTime-series analysis and feature extraction\nChi-square periodogram for rhythm detection\nGeneralized linear mixed models (including zero-inflation)\nHidden Markov Models (HMM) for state classification\nR (tidyverse, ggplot2, glmmTMB, momentuHMM, xsp)"
+  },
+  {
+    "objectID": "projects/project_anorythm.html#key-results",
+    "href": "projects/project_anorythm.html#key-results",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "section": "Key Results",
+    "text": "Key Results\n\nInsemination and gonotrophic status significantly affect locomotor activity rhythms\nEvidence of maintained activity during subjective day under constant darkness\nIdentification of potential daytime activity under low-light conditions\nData-driven modelling (HMM) enabled classification of activity states and quantification of behavioural dynamics over time"
+  },
+  {
+    "objectID": "projects/project_anorythm.html#impact",
+    "href": "projects/project_anorythm.html#impact",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "section": "Impact",
+    "text": "Impact\nHighlights the potential for residual malaria transmission during daytime Provides quantitative tools to better understand behavioural variability in malaria vectors Supports improved modelling of transmission dynamics by integrating behavioural patterns"
+  },
+  {
+    "objectID": "projects/project_anorythm.html#publications",
+    "href": "projects/project_anorythm.html#publications",
+    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "section": "Publications",
+    "text": "Publications\nTraoré et al. (2021)"
+  },
+  {
     "objectID": "projects/project_IMPACT.html",
     "href": "projects/project_IMPACT.html",
     "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
@@ -163,9 +212,9 @@
   {
     "objectID": "projects/project_insecticides.html",
     "href": "projects/project_insecticides.html",
-    "title": "Insecticides evaluation",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
     "section": "",
-    "text": "Context\nTest of new type of insecticides on mosquitoes mortality\nObjectives\n- Choose of lethal dose (LD) 50 and 90 for different mosquitoes strains (different mutation conferring partial resistance to insecticides)\nMethods\n\nDose response\nSurvival model : Kaplan meier curves and cox\nGeneralized linear models\n\nTools\n- R (tidyverse, ggplot2, dplyr, glmmTMB, DHARMa, coxme, survival, drm, BioRssay)\nKey Results\n- Identification of efficient dose for 2 news type of insecticides.\nImpact\nSupport for development of news control vector tools by a private company."
+    "text": "This project focused on evaluating the efficacy of new insecticide compounds on mosquito mortality, with the objective of supporting the development of novel vector control solutions."
   },
   {
     "objectID": "projects/project_insecticides.html#insecticides-evaluation",
@@ -228,21 +277,21 @@
     "href": "projects/groupe_biostat.html",
     "title": "RADO",
     "section": "",
-    "text": "Ce projet est un projet un peu particulier car il n’est pas question que de données mais des humains qui travaillent avec. C’est donc la création d’un groupe d’animation autour des biostatistiques et de la data au sein de deux unités de recherche de l’IRD. C’est un projet est né d’un du constat que les personnes travaillant sur les données sur le centre IRD de Montpellier ne se connaissaient pas et que l’on aurait tous à y gagner de changer ça. J’ai donc pris l’initiative avec un collègue d’une autre unité de lancer le groupe Biostat en 2022. Au bout d’un an, le groupe s’est agrandit et a fusionné avec un autre groupe plus centré sur la bio-informatique et cela a conduit à la création du RADO que j’ai également co-animé jusqu’à mon départ. L’animation de ce groupe a été une joie pour moi et m’a permis de monter en compétences, mais surtout des moments de partage de connaissances et de sympathie.\nCe réseau est toujours actif et s’agrandit grace au travail des animateurs et animatrices. Jetez y un oeil ici =&gt; RADO"
+    "text": "Ce projet est un peu à part, car il ne parle pas seulement de données, mais surtout des personnes qui travaillent avec. Il est né d’un constat simple : au centre IRD de Montpellier, beaucoup de gens manipulaient des données… sans vraiment se connaître. Et on s’est dit qu’il y avait clairement quelque chose à construire là-dessus.\nAvec un collègue d’une autre unité, on a donc lancé en 2022 un groupe d’animation autour des biostatistiques : le groupe Biostat. L’idée était de créer un espace d’échange, de partage de pratiques, et tout simplement de mettre en lien les personnes.\nAu fil du temps, le groupe a grandi, les échanges se sont enrichis, et on a fini par fusionner avec un autre collectif plus orienté bioinformatique. De là est né le RADO, que j’ai co-animé jusqu’à mon départ.\nAnimer ce réseau a été une expérience vraiment précieuse pour moi. Ça m’a permis de développer de nouvelles compétences, mais surtout de vivre de très bons moments de partage, de collaboration et de convivialité.\nEt le plus chouette, c’est que le réseau continue de vivre et de s’agrandir grâce à l’énergie des personnes qui l’animent aujourd’hui.\nJetez-y un œil ici : RADO"
   },
   {
     "objectID": "projects/groupe_biostat.html#groupe-danimation-autour-de-la-data-et-des-biostat",
     "href": "projects/groupe_biostat.html#groupe-danimation-autour-de-la-data-et-des-biostat",
     "title": "RADO",
     "section": "",
-    "text": "Ce projet est un projet un peu particulier car il n’est pas question que de données mais des humains qui travaillent avec. C’est donc la création d’un groupe d’animation autour des biostatistiques et de la data au sein de deux unités de recherche de l’IRD. C’est un projet est né d’un du constat que les personnes travaillant sur les données sur le centre IRD de Montpellier ne se connaissaient pas et que l’on aurait tous à y gagner de changer ça. J’ai donc pris l’initiative avec un collègue d’une autre unité de lancer le groupe Biostat en 2022. Au bout d’un an, le groupe s’est agrandit et a fusionné avec un autre groupe plus centré sur la bio-informatique et cela a conduit à la création du RADO que j’ai également co-animé jusqu’à mon départ. L’animation de ce groupe a été une joie pour moi et m’a permis de monter en compétences, mais surtout des moments de partage de connaissances et de sympathie.\nCe réseau est toujours actif et s’agrandit grace au travail des animateurs et animatrices. Jetez y un oeil ici =&gt; RADO"
+    "text": "Ce projet est un peu à part, car il ne parle pas seulement de données, mais surtout des personnes qui travaillent avec. Il est né d’un constat simple : au centre IRD de Montpellier, beaucoup de gens manipulaient des données… sans vraiment se connaître. Et on s’est dit qu’il y avait clairement quelque chose à construire là-dessus.\nAvec un collègue d’une autre unité, on a donc lancé en 2022 un groupe d’animation autour des biostatistiques : le groupe Biostat. L’idée était de créer un espace d’échange, de partage de pratiques, et tout simplement de mettre en lien les personnes.\nAu fil du temps, le groupe a grandi, les échanges se sont enrichis, et on a fini par fusionner avec un autre collectif plus orienté bioinformatique. De là est né le RADO, que j’ai co-animé jusqu’à mon départ.\nAnimer ce réseau a été une expérience vraiment précieuse pour moi. Ça m’a permis de développer de nouvelles compétences, mais surtout de vivre de très bons moments de partage, de collaboration et de convivialité.\nEt le plus chouette, c’est que le réseau continue de vivre et de s’agrandir grâce à l’énergie des personnes qui l’animent aujourd’hui.\nJetez-y un œil ici : RADO"
   },
   {
     "objectID": "project2.html",
     "href": "project2.html",
     "title": "Projects",
     "section": "",
-    "text": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticides evaluation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nMosquito behavioural analysis under insecticide exposure\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "ANIVERMATE: Evaluation of long-acting ivermectin formulation for malaria vector control and environmental impact\n\n\nEfficacy assessment of Ivermectin in cattle\n\n\n\n\n\n\n\n\n\n\n\n\nANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT – Evaluation of long-acting ivermectin formulations for malaria control\n\n\nEfficacy assessment of new formulation of Ivermectin : pre-clinical phase.\n\n\n\n\n\n\n\n\n\n\n\n\nInsecticide efficacy evaluation and dose optimisation\n\n\nTest of new type of insecticides and repellents against Anopheles gambiae\n\n\n\n\n\n\n\n\n\n\n\n\nMosquito behavioural analysis under insecticide exposure\n\n\nStudies of rythm modification of Anopheles gambiae in response to insecticides and urbanisation\n\n\n\n\n\n\n\n\n\n\n\n\nRADO\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -266,52 +315,45 @@
     "text": "I enjoy working at the interplay of data, biology and real-world questions.\n\nContact\n📧 angelique.porciani@gmail.com\nGitHub\nLinkedIn\n\n\nHello! I’m Angélique Porciani, a biostatistician and data analyst with over 12 years of experience working with complex data in life sciences.\nOver the years, I’ve developed strong expertise in statistical modelling and data analysis with R, applied to a wide range of projects in epidemiology, health, and environmental sciences.\nI particularly enjoy working with complex, time-dependent data, such as time series and longitudinal datasets, using statistical and machine learning approaches to explore patterns and support data-driven decisions. I also have experience with survival and dose-response models in the context of evaluating treatment efficacy.\nMore broadly, I’m interested in leveraging data to better understand complex systems and inform decision-making, whether in research or applied contexts. I’m especially motivated by projects where data can bring clarity to real-world challenges.\nBeyond the technical side, I’ve coordinated projects, collaborated with diverse stakeholders, and communicated results to both technical and non-technical audiences. I enjoy working in interdisciplinary environments and value collaboration and knowledge sharing.\nI’m currently seeking opportunities as a data analyst where I can apply my analytical skills to real-world data and contribute to impactful, data-driven projects.\n\n\n\n\n\n\n🛠 Skills\nLanguages & Tools: R (tidyverse, dplyr, ggplot2), SAS, SQL, Excel, Latex, Quarto, Python, bash, Notion\nStatistical Methods: descriptive statistics, regression linear or not, survival & dose-response modelling\nMachine Learning: variable selection, clustering, predictive modelling\nData Visualization & Reporting: dynamics html report (Quarto), KPI creation, summary tables, clear visual communication\nSoft Skills: collaboration, teaching, project coordination, interdisciplinary teamwork\n\n\n\nCurrent Focus\n\nCleaning, transforming, and exploring complex datasets for actionable insights\nCreating clear visualizations, dashboards, and indicators for decision-making\nApplying statistical modelling & machine learning to real-world biological data\nTime-dependent data: time series, longitudinal datasets\nSurvival & dose-response analyses to evaluate new molecules or interventions"
   },
   {
-    "objectID": "projects/project_anorythm.html#context",
-    "href": "projects/project_anorythm.html#context",
-    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "objectID": "projects/project_insecticides.html#context",
+    "href": "projects/project_insecticides.html#context",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
     "section": "",
-    "text": "“Right time define a good vector”. Mosquito activity rhythms play a key role in malaria transmission. This project investigates how biological factors (e.g. insemination status) and environmental conditions (e.g. light exposure) influence the activity patterns of Anopheles coluzzii."
+    "text": "This project focused on evaluating the efficacy of new insecticide compounds on mosquito mortality, with the objective of supporting the development of novel vector control solutions."
   },
   {
-    "objectID": "projects/project_anorythm.html#objectives",
-    "href": "projects/project_anorythm.html#objectives",
-    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "objectID": "projects/project_insecticides.html#objectives",
+    "href": "projects/project_insecticides.html#objectives",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
     "section": "Objectives",
-    "text": "Objectives\n\nEstimate key parameters characterizing activity rhythms (period, onset time, peak activity)\nCompare behavioural patterns across experimental groups\nDevelop a data-driven framework to model activity states and intensity over time"
+    "text": "Objectives\n\nEstimate lethal doses (LD50, LD90) across different mosquito strains\nCompare efficacy across strains with varying resistance profiles"
   },
   {
-    "objectID": "projects/project_anorythm.html#my-role",
-    "href": "projects/project_anorythm.html#my-role",
-    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "objectID": "projects/project_insecticides.html#my-role",
+    "href": "projects/project_insecticides.html#my-role",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
     "section": "My role",
-    "text": "My role\n\nManaged and processed behavioural time-series datasets\nDeveloped automated pipelines for extracting rhythm-related metrics (e.g. onset time, peak activity)\nPerformed statistical modelling (GLMM, zero-inflation models)\nImplemented Hidden Markov Models (HMM) to classify activity states and estimate transition probabilities\nAnalysed and interpreted behavioural patterns across biological and environmental conditions\nSupervision of master and PhD students"
+    "text": "My role\n\nManaged and analysed experimental datasets on mosquito mortality\nPerformed dose-response modelling to estimate lethal doses (LD50, LD90)\nConducted survival analyses (Kaplan–Meier, Cox models) to assess treatment effects\nApplied statistical models (GLM) to compare efficacy across mosquito strains\nInterpreted results to support compound evaluation and selection"
   },
   {
-    "objectID": "projects/project_anorythm.html#methods-tools",
-    "href": "projects/project_anorythm.html#methods-tools",
-    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "objectID": "projects/project_insecticides.html#methods-tools",
+    "href": "projects/project_insecticides.html#methods-tools",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
     "section": "Methods & tools",
-    "text": "Methods & tools\n\nTime-series analysis and feature extraction\nChi-square periodogram for rhythm detection\nGeneralized linear mixed models (including zero-inflation)\nHidden Markov Models (HMM) for state classification\nR (tidyverse, ggplot2, glmmTMB, momentuHMM, xsp)"
+    "text": "Methods & tools\n\nDose-response modelling\nSurvival analysis (Kaplan–Meier, Cox models)\nGeneralized linear models (GLM)\nR (tidyverse, ggplot2, glmmTMB, survival, drm, DHARMa)"
   },
   {
-    "objectID": "projects/project_anorythm.html#key-results",
-    "href": "projects/project_anorythm.html#key-results",
-    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "objectID": "projects/project_insecticides.html#key-results",
+    "href": "projects/project_insecticides.html#key-results",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
     "section": "Key Results",
-    "text": "Key Results\n\nInsemination and gonotrophic status significantly affect locomotor activity rhythms\nEvidence of maintained activity during subjective day under constant darkness\nIdentification of potential daytime activity under low-light conditions\nData-driven modelling (HMM) enabled classification of activity states and quantification of behavioural dynamics over time"
+    "text": "Key Results\n\nIdentification of effective dose ranges for two new insecticide compounds\nEvidence of differential efficacy across mosquito strains with resistance profiles"
   },
   {
-    "objectID": "projects/project_anorythm.html#impact",
-    "href": "projects/project_anorythm.html#impact",
-    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
+    "objectID": "projects/project_insecticides.html#impact",
+    "href": "projects/project_insecticides.html#impact",
+    "title": "Insecticide efficacy evaluation and dose optimisation",
     "section": "Impact",
-    "text": "Impact\nHighlights the potential for residual malaria transmission during daytime Provides quantitative tools to better understand behavioural variability in malaria vectors Supports improved modelling of transmission dynamics by integrating behavioural patterns"
-  },
-  {
-    "objectID": "projects/project_anorythm.html#publications",
-    "href": "projects/project_anorythm.html#publications",
-    "title": "ANORYTHM: Analysis of mosquito activity rhythms and behavioural patterns",
-    "section": "Publications",
-    "text": "Publications\nTraoré et al. (2021)"
+    "text": "Impact\n\nSupported decision-making in the development of new vector control tools\nContributed to the selection and optimisation of candidate insecticides for further development\nProvided quantitative evidence to guide industrial R&D strategies"
   }
 ]
