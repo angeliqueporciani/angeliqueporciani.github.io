@@ -1,14 +1,14 @@
 {
-    "id": "759FEFB6",
-    "path": "~/Nextcloud/Carriere/personnal_website/my_career.qmd",
-    "project_path": "my_career.qmd",
+    "id": "BB05169C",
+    "path": "~/Nextcloud/Carriere/personnal_website/index.qmd",
+    "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1400804428",
     "contents": "",
     "dirty": false,
-    "created": 1774392623818.0,
+    "created": 1776166725831.0,
     "source_on_save": false,
-    "relative_order": 14,
+    "relative_order": 4,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "5,0",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "2:753.6363525390625",
+        "cursorPosition": "20,79",
+        "scrollLine": "7"
     },
     "folds": "",
-    "lastKnownWriteTime": 1776163896,
+    "lastKnownWriteTime": 1776199496,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1776163896997,
+    "last_content_update": 1776199496765,
     "read_only": false,
     "read_only_alternatives": []
 }
