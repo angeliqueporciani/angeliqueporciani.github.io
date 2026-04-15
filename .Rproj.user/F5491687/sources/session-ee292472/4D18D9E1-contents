@@ -270,3 +270,71 @@
     box-shadow: 0 0 0 0 rgba(44, 62, 80, 0);
   }
 }
+
+/* =========================================================
+   MOBILE RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  /* Global text spacing */
+  body {
+    font-size: 0.98rem;
+  }
+
+  /* Title block */
+  .quarto-title-block {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  /* Columns stack nicely */
+  .columns {
+    display: block !important;
+  }
+
+  .column {
+    width: 100% !important;
+    margin-bottom: 1rem;
+  }
+
+  /* About page portrait */
+  .quarto-about-trestles img,
+  .columns img {
+    display: block;
+    margin: 0 auto 20px auto;
+    max-width: 180px;
+    width: 70%;
+    height: auto;
+  }
+
+  /* Cards */
+  .card,
+  .skill-card,
+  .clickable-card,
+  .quarto-grid-item {
+    min-height: auto !important;
+    height: auto !important;
+    margin-bottom: 1rem;
+  }
+
+  /* Timeline */
+  .timeline {
+    padding-left: 20px;
+    margin: 20px 0;
+  }
+
+  .timeline-item::before {
+    left: -28px;
+  }
+
+  /* CV image */
+  .cv-preview {
+    max-width: 95%;
+  }
+
+  /* Navbar */
+  .navbar {
+    font-size: 1rem;
+  }
+}

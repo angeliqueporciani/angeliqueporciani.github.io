@@ -3,7 +3,7 @@
     "path": "~/Nextcloud/Carriere/personnal_website/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "3834054778",
+    "hash": "3287495810",
     "contents": "",
     "dirty": false,
     "created": 1776197832885.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "265,7",
-        "scrollLine": "215"
+        "cursorPosition": "339,1",
+        "scrollLine": "317"
     },
     "folds": "",
-    "lastKnownWriteTime": 1776242091,
+    "lastKnownWriteTime": 1776243872,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1776242091259,
+    "last_content_update": 1776243872933,
     "read_only": false,
     "read_only_alternatives": []
 }
