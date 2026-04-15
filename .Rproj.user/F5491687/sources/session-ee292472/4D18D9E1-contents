@@ -1,5 +1,7 @@
-/* css styles */
-/* largeur du texte plus agréable */
+/* =========================================================
+   1. GLOBAL LAYOUT
+   ========================================================= */
+
 .quarto-title-block {
   max-width: 900px;
   margin: auto;
@@ -9,19 +11,39 @@
   margin-bottom: 20px;
 }
 
-/* arrondi photo */
+/* Generic card behavior */
+.card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
 
+
+/* =========================================================
+   2. NAVBAR
+   ========================================================= */
+
+.navbar {
+  font-size: 1.05rem;
+}
+
+
+/* =========================================================
+   3. ABOUT / HOMEPAGE
+   ========================================================= */
+
+/* Rounded portrait on about page */
 .quarto-about-trestles img {
   border-radius: 50%;
   max-width: 220px;
 }
 
 
-/* navbar plus douce */
-.navbar {
-  font-size: 1.05rem;
-}
+/* =========================================================
+   4. GENERIC GRID / CARD STYLES
+   ========================================================= */
 
+/* Generic column block */
 .g-col-4 {
   background-color: #f8f9fa;
   padding: 20px;
@@ -29,6 +51,7 @@
   margin-bottom: 20px;
 }
 
+/* Clickable cards */
 .clickable-card {
   cursor: pointer;
   transition: transform 0.2s, box-shadow 0.2s;
@@ -38,9 +61,10 @@
 
 .clickable-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
 }
 
+/* Quarto listing/project cards */
 .quarto-grid-item {
   border-radius: 12px;
   overflow: hidden;
@@ -52,7 +76,7 @@
 
 .quarto-grid-item:hover {
   transform: translateY(-6px);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
 }
 
 .quarto-grid-item img {
@@ -69,13 +93,11 @@
   text-decoration: none;
 }
 
-.card {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-}
 
-/* Timeline container */
+/* =========================================================
+   5. TIMELINE (CAREER PAGE)
+   ========================================================= */
+
 .timeline {
   position: relative;
   margin: 40px 0;
@@ -83,13 +105,14 @@
   border-left: 2px solid #e0e0e0;
 }
 
-/* Each item */
 .timeline-item {
   position: relative;
   margin-bottom: 40px;
+  opacity: 0;
+  transform: translateY(15px);
+  animation: fadeInUp 0.6s ease forwards;
 }
 
-/* Dot */
 .timeline-item::before {
   content: "";
   position: absolute;
@@ -99,10 +122,22 @@
   height: 12px;
   background-color: #2c3e50;
   border-radius: 50%;
-  animation: pulse 2s infinite
+  animation: pulse 2s infinite;
 }
 
-/* Date */
+/* Staggered animation for first items */
+.timeline-item:nth-child(1) {
+  animation-delay: 0.1s;
+}
+
+.timeline-item:nth-child(2) {
+  animation-delay: 0.3s;
+}
+
+.timeline-item:nth-child(3) {
+  animation-delay: 0.5s;
+}
+
 .timeline-date {
   font-size: 0.9rem;
   color: #888;
@@ -110,30 +145,25 @@
   font-weight: 500;
 }
 
-/* Content box */
 .timeline-content {
   background: #fafafa;
   padding: 15px 20px;
   border-radius: 8px;
   border: 1px solid #eee;
-  transition: all 0.2s ease
+  transition: all 0.2s ease;
 }
 
-/* Titles */
+.timeline-content:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
 .timeline-content h3 {
   margin-top: 0;
   margin-bottom: 5px;
   font-size: 1.1rem;
 }
 
-/* Subtitle */
-.subtitle {
-  font-size: 0.9rem;
-  color: #666;
-  margin-bottom: 10px;
-}
-
-/* List */
 .timeline-content ul {
   margin: 0;
   padding-left: 18px;
@@ -143,43 +173,22 @@
   margin-bottom: 5px;
 }
 
-.timeline-item {
-  opacity: 0;
-  transform: translateY(15px);
-  animation: fadeInUp 0.6s ease forwards;
-}
-
-/* Décalage entre les items */
-.timeline-item:nth-child(1) { animation-delay: 0.1s; }
-.timeline-item:nth-child(2) { animation-delay: 0.3s; }
-.timeline-item:nth-child(3) { animation-delay: 0.5s; }
-
-@keyframes fadeInUp {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+.subtitle {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 10px;
 }
 
 
-.timeline-content:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-}
+/* =========================================================
+   6. CV PAGE
+   ========================================================= */
 
-@keyframes pulse {
-  0% { box-shadow: 0 0 0 0 rgba(44, 62, 80, 0.4); }
-  70% { box-shadow: 0 0 0 6px rgba(44, 62, 80, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(44, 62, 80, 0); }
-}
-
-/* Section container */
 .cv-section {
   text-align: center;
   margin-top: 30px;
 }
 
-/* Image preview */
 .cv-preview {
   max-width: 70%;
   border: 1px solid #e0e0e0;
@@ -187,13 +196,11 @@
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* Hover effect */
 .cv-preview:hover {
   transform: scale(1.02);
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
 }
 
-/* Download link */
 .cv-actions {
   margin-top: 15px;
 }
@@ -213,6 +220,11 @@
   text-decoration: underline;
 }
 
+
+/* =========================================================
+   7. PROJECT-SPECIFIC COMPONENTS
+   ========================================================= */
+
 .card-with-logo {
   display: flex;
   justify-content: space-between;
@@ -221,16 +233,40 @@
   margin: 0.5em;
   background-color: #d6eaff;
   border-radius: 14px;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.12);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
 }
 
 .card-with-logo .content {
   flex: 1;
-  margin-right: auto; 
+  margin-right: auto;
 }
 
 .card-with-logo img {
   height: 2.5em;
   margin-left: 0.1em;
   flex-shrink: 0;
+}
+
+
+/* =========================================================
+   8. ANIMATIONS
+   ========================================================= */
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(44, 62, 80, 0.4);
+  }
+  70% {
+    box-shadow: 0 0 0 6px rgba(44, 62, 80, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(44, 62, 80, 0);
+  }
 }
