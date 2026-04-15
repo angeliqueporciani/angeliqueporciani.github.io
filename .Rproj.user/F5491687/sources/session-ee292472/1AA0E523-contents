@@ -13,8 +13,8 @@ website:
         href: project2.qmd
       - text: Publications
         href: publications.qmd
-      - text: CV
-        href: my_resume.qmd
+      - text: Contact
+        href: Contact.qmd
 
     right:
       - icon: github
