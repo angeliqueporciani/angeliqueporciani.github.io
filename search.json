@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Angélique Porciani",
     "section": "",
-    "text": "I enjoy turning complex data into useful insights for real-world questions.\n\nContact\n📧 angelique.porciani@gmail.com\n📄 Download CV\n📊 View Projects\n Connect on LinkedIn\n View GitHub\n\n\nHello! I’m Angélique Porciani, a biostatistician and data analyst with over 12 years of experience working with complex data in life sciences.\nOver the years, I’ve developed strong expertise in statistical modelling and data analysis with R, applied to a wide range of projects in epidemiology, health, and environmental sciences.\nI particularly enjoy working with complex, time-dependent data, such as time series and longitudinal datasets, using statistical and machine learning approaches to explore patterns and support data-driven decisions. I also have experience with survival and dose-response models in the context of evaluating treatment efficacy.\nMore broadly, I’m interested in leveraging data to better understand complex systems and inform decision-making, whether in research or applied contexts. I’m especially motivated by projects where data can bring clarity to real-world challenges.\nBeyond the technical side, I’ve coordinated projects, collaborated with diverse stakeholders, and communicated results to both technical and non-technical audiences. I enjoy working in interdisciplinary environments and value collaboration and knowledge sharing.\nI’m currently seeking opportunities as a data analyst where I can apply my analytical skills to real-world data and contribute to impactful, data-driven projects.\n\n\n\n\n🛠 Core Skills\n\n\n\n\n📊 Data & Analytics\n\nStatistical modelling\n\nSurvival analysis\n\nDose-response modelling\n\nLongitudinal & time-series data\n\nExperimental design\n\nData cleaning & transformation\n\n\n\n\n💻 Tools & Programming\n\nR (tidyverse, ggplot2, dplyr)\n\nSQL\n\nSAS\n\nExcel\n\nQuarto\n\nPython (basic)\n\n\n\n\n\n\n\n📈 Reporting & Decision Support\n\nData visualization\n\nDashboards & KPI creation\n\nAutomated reporting\n\nSummary tables\n\nClear communication of results\n\nDecision-oriented insights\n\n\n\n\n🤝 Collaboration & Project Skills\n\nProject coordination\n\nInterdisciplinary teamwork\n\nStakeholder communication\n\nTraining & supervision\n\nKnowledge sharing\n\nScientific writing & presentations"
+    "text": "I enjoy turning complex data into useful insights for real-world questions.\n\nContact\n Contact me by email\n📊 View Projects\n Connect on LinkedIn\n View GitHub\n\n\nHello! I’m Angélique Porciani, a biostatistician and data analyst with over 12 years of experience working with complex data in life sciences.\nOver the years, I’ve developed strong expertise in statistical modelling and data analysis with R, applied to a wide range of projects in epidemiology, health, and environmental sciences.\nI particularly enjoy working with complex, time-dependent data, such as time series and longitudinal datasets, using statistical and machine learning approaches to explore patterns and support data-driven decisions. I also have experience with survival and dose-response models in the context of evaluating treatment efficacy.\nMore broadly, I’m interested in leveraging data to better understand complex systems and support decision-making, whether in research or applied contexts. I’m especially motivated by projects where data can bring clarity to real-world challenges.\nBeyond the technical side, I’ve coordinated projects, collaborated with diverse stakeholders, and communicated results to both technical and non-technical audiences. I enjoy working in interdisciplinary environments and value collaboration and knowledge sharing.\nI’m currently seeking opportunities as a data analyst where I can apply my analytical skills to real-world data and contribute to impactful, data-driven projects.\n\n\n\n\n🛠 Core Skills\n\n\n\n\n📊 Data & Analytics\n\nStatistical modelling\n\nSurvival analysis\n\nDose-response modelling\n\nLongitudinal & time-series data\n\nExperimental design\n\nData cleaning & transformation\n\n\n\n\n💻 Tools & Programming\n\nR (tidyverse, ggplot2, dplyr)\n\nSQL\n\nSAS\n\nExcel\n\nQuarto\n\nPython (basic)\n\n\n\n\n\n\n\n📈 Reporting & Decision Support\n\nData visualization\n\nDashboards & KPI creation\n\nAutomated reporting\n\nSummary tables\n\nClear communication of results\n\nDecision-oriented insights\n\n\n\n\n🤝 Collaboration & Project Skills\n\nProject coordination\n\nInterdisciplinary teamwork\n\nStakeholder communication\n\nTraining & supervision\n\nKnowledge sharing\n\nScientific writing & presentations"
   },
   {
     "objectID": "projects.html",
@@ -201,6 +201,20 @@
     "title": "IMPACT – Evaluation of long-acting ivermectin formulations for malaria control",
     "section": "Publications",
     "text": "Publications\nSagna et al. (2023) ; Pooda et al. (2026) ; Zela et al. (2026) ; Dongmo et al. (2025)"
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Angélique Porciani",
+    "section": "",
+    "text": "If you’d like to discuss potential collaborations or opportunities, feel free to contact me by email or on LinkedIn.\nLooking forward to hearing from you!\n angelique.porciani@gmail.com\n Connect on LinkedIn\n View GitHub"
+  },
+  {
+    "objectID": "Contact.html#contact",
+    "href": "Contact.html#contact",
+    "title": "Angélique Porciani",
+    "section": "",
+    "text": "If you’d like to discuss potential collaborations or opportunities, feel free to contact me by email or on LinkedIn.\nLooking forward to hearing from you!\n angelique.porciani@gmail.com\n Connect on LinkedIn\n View GitHub"
   },
   {
     "objectID": "my_career.html",
