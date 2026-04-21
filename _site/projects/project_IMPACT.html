@@ -247,7 +247,11 @@ div.csl-indent {
 </section>
 <section id="impact" class="level2">
 <h2 class="anchored" data-anchor-id="impact"><strong>Impact</strong></h2>
-<p>Contributed to the development of a novel malaria control strategy aligned with WHO recommendations Supported the selection of a lead formulation, enabling progression to Phase I clinical trials Provided key insights for deployment strategies, including resistance management</p>
+<ul>
+<li>Contributed to the development of a novel malaria control strategy aligned with WHO recommendations</li>
+<li>Supported the selection of a lead formulation, enabling progression to Phase I clinical trials</li>
+<li>Provided key insights for deployment strategies, including resistance management</li>
+</ul>
 </section>
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications"><strong>Publications</strong></h2>
@@ -344,7 +348,7 @@ Zela, Lamidi, Sié Hermann Pooda, Angélique Porciani, Samuel Beneteau, André B
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/angeliqueporciani\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
