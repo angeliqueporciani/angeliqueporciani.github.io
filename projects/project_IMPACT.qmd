@@ -8,50 +8,45 @@ categories: [Data analysis, Biostatistics, Survival analysis, PK/PD modelling, C
 
 ## **Context**
 
-This project aimed to evaluate new long-acting injectable formulations of ivermectin as a complementary strategy for malaria vector control. A key challenge was extending the duration of efficacy beyond current limitations (<7 days).
+This project aimed to evaluate new long-acting injectable formulations of ivermectin as a complementary strategy for malaria vector control. A key challenge was extending the duration of efficacy beyond current limitations (\<7 days).
 
+## **Objectives**
 
-## **Objectives**  
+-   Identify the optimal formulation and dose meeting WHO Preferred Product Characteristics (HR \> 4 for at least one month)
+-   Evaluate efficacy in semi-field conditions (cattle–wild mosquitoes)
+-   Estimate the epidemiological impact on malaria prevalence
+-   Assess resistance development in *Anopheles* and *Aedes*
+-   Study potential behavioural effects on mosquito host-seeking
 
-- Identify the optimal formulation and dose meeting WHO Preferred Product Characteristics (HR > 4 for at least one month)
-- Evaluate efficacy in semi-field conditions (cattle–wild mosquitoes)
-- Estimate the epidemiological impact on malaria prevalence
-- Assess resistance development in *Anopheles* and *Aedes*
-- Study potential behavioural effects on mosquito host-seeking
+## **My role**
 
+-   Designed study protocols, including sample size estimation and power calculations
+-   Developed and implemented the statistical analysis plan
+-   Performed data management, cleaning, and quality control
+-   Conducted statistical analyses (survival models, GLMM, GAM, PK/PD, dose-response; epidemiological model)
+-   Supervised students and supported partners in data analysis and interpretation
+-   Communicated results to diverse stakeholders (scientific and non-scientific audiences)
 
-## **My role** 
+## **Methods and tools**
 
-- Designed study protocols, including sample size estimation and power calculations
-- Developed and implemented the statistical analysis plan
-- Performed data management, cleaning, and quality control
-- Conducted statistical analyses (survival models, GLMM, GAM, PK/PD, dose-response; epidemiological model)
-- Supervised students and supported partners in data analysis and interpretation
-- Communicated results to diverse stakeholders (scientific and non-scientific audiences)
+-   Survival analysis, GLMM, GAM, PK/PD modelling, non-linear dose-response, epidemiological model SAP, DMP redaction, study design, sample size estimation, power calculation, indicator of efficacy creation
+-   R (tidyverse, ggplot2, glmmTMB, coxme, mgcv, drc, PKNCA)
+-   Data management and reporting (R, Excel, Word, Quarto)
+-   Study design, sample size estimation, power calculation, indicator of efficacy creation
 
-## **Methods and tools**  
+## **Key Results**
 
-- Survival analysis, GLMM, GAM, PK/PD modelling, non-linear dose-response, epidemiological model 
-SAP, DMP redaction, study design, sample size estimation, power calculation, indicator of efficacy creation
-- R (tidyverse, ggplot2, glmmTMB, coxme, mgcv, drc, PKNCA)
-- Data management and reporting (R, Excel, Word, Quarto)
-- Study design, sample size estimation, power calculation, indicator of efficacy creation
+-   Sustained mosquitocidal efficacy for at least two months with HR \> 4, meeting WHO PPC
+-   Repeated treatment campaigns significantly reduced malaria prevalence (up to \~78%)
+-   Evidence of differential resistance between Aedes and Anopheles
+-   No significant effect on host-seeking behaviour
 
-## **Key Results** 
+## **Impact**
 
-- Sustained mosquitocidal efficacy for at least two months with HR > 4, meeting WHO PPC
-- Repeated treatment campaigns significantly reduced malaria prevalence (up to ~78%)
-- Evidence of differential resistance between Aedes and Anopheles
-- No significant effect on host-seeking behaviour
+- Contributed to the development of a novel malaria control strategy aligned with WHO recommendations 
+- Supported the selection of a lead formulation, enabling progression to Phase I clinical trials 
+- Provided key insights for deployment strategies, including resistance management
 
-## **Impact**  
-Contributed to the development of a novel malaria control strategy aligned with WHO recommendations
-Supported the selection of a lead formulation, enabling progression to Phase I clinical trials
-Provided key insights for deployment strategies, including resistance management
-
-
-## **Publications** 
+## **Publications**
 
 @sagna_ivermectin_2023 ; @pooda_impact_2026 ; @zela_selection_2026 ; @dongmo_modeling_2025
-
-
