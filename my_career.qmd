@@ -34,7 +34,7 @@ Montpellier
 - Generated new insights into the sublethal effects of insecticides on mosquito larvae behaviour and life-history traits  
 - Improved the quantitative characterization of behavioural responses using data-driven approaches  
 
-🔗 [Project: Mosquito larvae movement](./project_movLarv.qmd)
+🔗 [Project: Mosquito larvae movement](projects/project_movLarv.qmd)
 :::
 
 ::: {.timeline-item}
@@ -58,9 +58,9 @@ Montpellier
 - Contributed to the identification of optimal dose and long-acting formulation  
 - Supported strategies aimed at reducing malaria transmission through data-driven decision-making  
 
-🔗 [Project: IMPACT](./project_IMPACT.qmd)  
-🔗 [Project: Anivermate](./project_anivermate.qmd)  
-🔗 [Project: RADO](./groupe_biostat.qmd)
+🔗 [Project: IMPACT](projects/project_IMPACT.qmd)  
+🔗 [Project: Anivermate](projects/project_anivermate.qmd)  
+🔗 [Project: RADO](projects/groupe_biostat.qmd)
 
 :::
 
@@ -80,7 +80,7 @@ Montpellier
 - Supervision of students (Msc and PhD students)
 - Impact: This project advanced our understanding of how *Anopheles coluzzii* activity rhythms respond to both external and internal variability.
 
-🔗 [Project: Anorythm](./project_anorythm.qmd)
+🔗 [Project: Anorythm](projects/project_anorythm.qmd)
 :::
 
 ::: {.timeline-item}
@@ -98,7 +98,7 @@ Montpellier
 - Spatial and temporal statistics 
 - GLMM, censored data, multi-states models 
 
-Internship : [Project: Anorythm](./project_anorythm.qmd)
+Internship : [Project: Anorythm](projects/project_anorythm.qmd)
 :::
 
 ::: {.timeline-item}
